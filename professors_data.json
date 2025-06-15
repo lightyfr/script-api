@@ -1,0 +1,233 @@
+[
+    {
+        "name": "Dr. Josh Bloch",
+        "email": "jbLoch@andRrew.cmu.edu",
+        "university": "Carnegie Mellon University",
+        "department": "Software and Societal Systems Department",
+        "research_topics": null,
+        "summary": "Dr. Josh Bloch holds a B.S. in computer science from Columbia University and a Ph.D. in computer science from Carnegie Mellon University. Bloch has decades of experience in software research and development, including contributions to the Java Collections Framework and the design of Java platform features."
+    },
+    {
+        "name": "Scott Renshaw",
+        "email": "srenshaw@andrew.cmu.edu",
+        "university": "Carnegie Mellon University",
+        "department": "Software and Societal Systems Department",
+        "research_topics": null,
+        "summary": "Post-Doctoral Associate"
+    },
+    {
+        "name": "Atoosa Kasirzadeh",
+        "email": "akasirza@andrew.cmu.edu",
+        "university": "Carnegie Mellon University",
+        "department": "Software and Societal Systems Department",
+        "research_topics": [
+            "ethics and governance of AI",
+            "governance of computing",
+            "societal impacts of AI",
+            "governance of AI",
+            "future of AI and humanity"
+        ],
+        "summary": "Atoosa is a philosopher of science and technology and an AI researcher with a track record of publications on ethics and governance of AI and computing. She advises public and private institutions on responsible AI development and AI governance."
+    },
+    {
+        "name": "Rob Cunningham",
+        "email": "rkcunnin@a%6Edrew.cmu%2E%65du",
+        "university": "Carnegie Mellon University",
+        "department": "Software and Societal Systems Department",
+        "research_topics": null,
+        "summary": "Adjunct Professor of Cybersecurity, Institute for Software Research"
+    },
+    {
+        "name": "Rob Cunningham",
+        "email": "rkcunnin@andrew.cmu.edu",
+        "university": "Carnegie Mellon University",
+        "department": "Software and Societal Systems Department",
+        "research_topics": null,
+        "summary": "Adjunct Professor of Cybersecurity, Institute for Software Research"
+    },
+    {
+        "name": "David Farber",
+        "email": "f%61rb%65r@%61n%64%72ew.cm%75.%65du",
+        "university": "Carnegie Mellon University",
+        "department": "Software and Societal Systems Department",
+        "research_topics": null,
+        "summary": "Professor David Farber played a key role in many systems that converged into today\\'s Internet."
+    },
+    {
+        "name": "Dr. Josh Bloch",
+        "email": "jbLoch@andRrew.cmu.edu",
+        "university": "Carnegie Mellon University",
+        "department": "Software and Societal Systems Department",
+        "research_topics": null,
+        "summary": "Dr. Josh Bloch holds a B.S. in computer science from Columbia University and a Ph.D. in computer science from Carnegie Mellon University. Bloch has decades of experience in software research and development."
+    },
+    {
+        "name": "Jeremy Lacomis",
+        "email": "jlacomis@andrew.cmu.edu",
+        "university": "Carnegie Mellon University",
+        "department": "Software and Societal Systems Department",
+        "research_topics": null,
+        "summary": "Jeremey Lacomis, SCS Mark Stehlik Postdoctoral Teaching Fellow"
+    },
+    {
+        "name": "Sauvik Das",
+        "email": "sauvik@cmu.edu",
+        "university": "Carnegie Mellon University",
+        "department": "Software and Societal Systems Department",
+        "research_topics": null,
+        "summary": "Assistant Professor, Human-Computer Interaction Institute"
+    },
+    {
+        "name": "He Ye",
+        "email": "Visitor-hey@andrew.cmu.edu",
+        "university": "Carnegie Mellon University",
+        "department": "Software and Societal Systems Department",
+        "research_topics": null,
+        "summary": "Wallenberg Foundation Post-Doctoral Fellow, Software and Societal Systems"
+    },
+    {
+        "name": "Steven Lipner",
+        "email": "slipner@andrew.cmu.edu",
+        "university": "Carnegie Mellon University",
+        "department": "Software and Societal Systems Department",
+        "research_topics": null,
+        "summary": "Steven B. Lipner, executive director of SAFECode, is a computer security pioneer with more than 40 years of experience as a researcher, development manager, and general manager in IT security. He holds an appointment as adjunct professor of computer science at the Institute for Software Research, School of Computer Science of Carnegie Mellon University."
+    },
+    {
+        "name": "Thomas Bock",
+        "email": "bockthom@cmu.edu",
+        "university": "Carnegie Mellon University",
+        "department": "Software and Societal Systems",
+        "research_topics": [
+            "empirical software engineering",
+            "software evolution and maintenance",
+            "social and scientific aspects of software engineering",
+            "analysis of coordination and communication in open-source software projects",
+            "organizational patterns",
+            "developer networks",
+            "developer roles in evolving software projects",
+            "analyzing how software is used in science, especially in the era of machine learning and artificial intelligence"
+        ],
+        "summary": "Dr. Thomas Bock is a post-doctoral researcher at the Software and Societal Systems Department at the School of Computer Science at Carnegie Mellon University. His research interests are focused on empirical software engineering, software evolution and maintenance, and social and scientific aspects of software engineering."
+    },
+    {
+        "name": "Nandini Sharma",
+        "email": "nandini2@andrew.cmu.edu",
+        "university": "Carnegie Mellon University",
+        "department": "Software and Societal Systems Department",
+        "research_topics": null,
+        "summary": "Post-Doctoral Associate, Software and Societal Systems"
+    },
+    {
+        "name": "Andrew Begel",
+        "email": "abegel@cmu.edu",
+        "university": "Carnegie Mellon University",
+        "department": "Software and Societal Systems",
+        "research_topics": [
+            "technology and AI to extend capabilities and enhance the quality of life for people with disabilities",
+            "inclusive technology workplace",
+            "tools for the future of remote work",
+            "HCI techniques to study and improve the software development process",
+            "biometrics and affect-based software engineering",
+            "social media for software engineering",
+            "collaborative software development",
+            "Agile methodologies",
+            "developer-centric knowledge management",
+            "flow and coordination",
+            "K-16 and beyond programming education"
+        ],
+        "summary": "Andrew Begel is an Associate Professor of Computer Science in the Software and Societal Systems Department in the School of Computer Science at Carnegie Mellon University. His research examines how technology and AI can extend capabilities and enhance the quality of life for people with disabilities."
+    },
+    {
+        "name": "Jim Berardone",
+        "email": "jberar@andrew.cmu.edu",
+        "university": "Carnegie Mellon University",
+        "department": "Software and Societal Systems Department",
+        "research_topics": null,
+        "summary": "Jim Berardone is a special faculty member of Carnegie Mellon\u2019s Master of Software Engineering programs. His teaching focuses on product management and business strategy."
+    },
+    {
+        "name": "Ben Titzer",
+        "email": "btitzer@andrew.cmu.edu",
+        "university": "Carnegie Mellon University",
+        "department": "Software and Societal Systems Department",
+        "research_topics": [
+            "systems programming languages",
+            "compilers",
+            "virtual machines",
+            "managed runtime systems",
+            "WebAssembly",
+            "Edge computing"
+        ],
+        "summary": "Ben Titzer is a Principal Researcher focusing on systems, including systems programming languages, compilers, and virtual machines. He co-founded WebAssembly and is currently working on increasing its usefulness and reach, particularly for academic research and new domains like Edge computing."
+    },
+    {
+        "name": "Dr. Josh Sunshine",
+        "email": "joshsunshine@cmu.edu",
+        "university": "Carnegie Mellon University",
+        "department": "Software and Societal Systems Department",
+        "research_topics": [
+            "programming languages",
+            "software engineering",
+            "usability of reusable software components"
+        ],
+        "summary": "I am an Assistant Professor in the Software and Societal Systems Department at Carnegie Mellon University. I have broad research interests at the intersection of programming languages and software engineering."
+    },
+    {
+        "name": "Justin Chan",
+        "email": "justinc3@andrew.cmu.edu",
+        "university": "Carnegie Mellon University",
+        "department": "Software and Societal Systems",
+        "research_topics": [
+            "Mobile sensing",
+            "Computational health",
+            "Environmental sensing"
+        ],
+        "summary": "Justin is an assistant professor in the School of Computer Science and Department of Engineering and Computer Engineering at Carnegie Mellon University, where he directs the Mobile Sensing Lab. His group's research focuses on building intelligent mobile and embedded systems for computational health and large-scale environmental sensing."
+    },
+    {
+        "name": "Dr. Steven Wu",
+        "email": "zstevenwu@cmu.edu",
+        "university": "Carnegie Mellon University",
+        "department": "Software and Societal Systems",
+        "research_topics": [
+            "privacy",
+            "fairness",
+            "reliability",
+            "robustness",
+            "machine learning",
+            "statistics",
+            "optimization",
+            "differential privacy",
+            "game theory",
+            "mechanism design"
+        ],
+        "summary": "Steven Wu is an Assistant Professor in the School of Computer Science at Carnegie Mellon University, with an appointment in the Software and Societal Systems Department (in the Societal Computing program), and affiliated appointments with the Machine Learning Department and the Human-Computer Interaction Institute. His research studies the societal aspects of machine learning, focusing on aligning machine learning with societal values and making it more reliable in social and economic dynamics."
+    },
+    {
+        "name": "Bogdan Vasilescu",
+        "email": "vasilescu@cmu.edu",
+        "university": "CMU",
+        "department": "Software and Societal Systems",
+        "research_topics": [
+            "empirical software engineering",
+            "social computing",
+            "computer-supported cooperative work"
+        ],
+        "summary": "Bogdan is an Associate Professor in the Software and Societal Systems Department of CMU's School of Computer Science. He is engaged in interdisciplinary research to offer data-driven answers to questions about empowering distributed teams to develop software effectively and productively."
+    },
+    {
+        "name": "Kathleen M. Carley",
+        "email": "kathleen.carley@cs.cmu.edu",
+        "university": "Carnegie Mellon University",
+        "department": "Software and Societal Systems",
+        "research_topics": [
+            "Complex Socio-Technical Systems",
+            "Computing Technology and Policy",
+            "Network Science and Social Networks",
+            "Organizations",
+            "Software Data Analysis"
+        ],
+        "summary": "Kathleen M. Carley is a professor in the Software and Societal Systems Department in Carnegie Mellon's School of Computer Science. Her research combines cognitive science, sociology, organization science, and computer science to address complex social and organizational issues such as disinformation, counter-terrorism, and organizational design."
+    }
+]

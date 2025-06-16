@@ -1,233 +1,2695 @@
 [
     {
-        "name": "Dr. Josh Bloch",
-        "email": "jbLoch@andRrew.cmu.edu",
-        "university": "Carnegie Mellon University",
-        "department": "Software and Societal Systems Department",
+        "name": "Ahsan Chowdhury",
+        "email": "achowdh6@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
         "research_topics": null,
-        "summary": "Dr. Josh Bloch holds a B.S. in computer science from Columbia University and a Ph.D. in computer science from Carnegie Mellon University. Bloch has decades of experience in software research and development, including contributions to the Java Collections Framework and the design of Java platform features."
+        "summary": "Ahsan Chowdhury is an Instructional Assistant Professor in the Mathematical Sciences Department at George Mason University."
     },
     {
-        "name": "Scott Renshaw",
-        "email": "srenshaw@andrew.cmu.edu",
-        "university": "Carnegie Mellon University",
-        "department": "Software and Societal Systems Department",
+        "name": "Deodato Obregon",
+        "email": "dobrego@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
         "research_topics": null,
-        "summary": "Post-Doctoral Associate"
+        "summary": "Deodato Obregon is an Adjunct in the Mathematical Sciences Department at George Mason University."
     },
     {
-        "name": "Atoosa Kasirzadeh",
-        "email": "akasirza@andrew.cmu.edu",
-        "university": "Carnegie Mellon University",
-        "department": "Software and Societal Systems Department",
+        "name": "David Carchedi",
+        "email": "dcarched@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
         "research_topics": [
-            "ethics and governance of AI",
-            "governance of computing",
-            "societal impacts of AI",
-            "governance of AI",
-            "future of AI and humanity"
+            "higher category theory",
+            "topology",
+            "differential and algebraic geometry",
+            "derived geometry",
+            "field theory",
+            "\u00e9tale and motivic homotopy theory",
+            "log geometry"
         ],
-        "summary": "Atoosa is a philosopher of science and technology and an AI researcher with a track record of publications on ethics and governance of AI and computing. She advises public and private institutions on responsible AI development and AI governance."
+        "summary": "David Carchedi is an Associate Professor at George Mason University whose research focuses on applications of higher category theory to topology and differential and algebraic geometry, with a particular interest in derived geometry and field theory."
     },
     {
-        "name": "Rob Cunningham",
-        "email": "rkcunnin@a%6Edrew.cmu%2E%65du",
-        "university": "Carnegie Mellon University",
-        "department": "Software and Societal Systems Department",
-        "research_topics": null,
-        "summary": "Adjunct Professor of Cybersecurity, Institute for Software Research"
-    },
-    {
-        "name": "Rob Cunningham",
-        "email": "rkcunnin@andrew.cmu.edu",
-        "university": "Carnegie Mellon University",
-        "department": "Software and Societal Systems Department",
-        "research_topics": null,
-        "summary": "Adjunct Professor of Cybersecurity, Institute for Software Research"
-    },
-    {
-        "name": "David Farber",
-        "email": "f%61rb%65r@%61n%64%72ew.cm%75.%65du",
-        "university": "Carnegie Mellon University",
-        "department": "Software and Societal Systems Department",
-        "research_topics": null,
-        "summary": "Professor David Farber played a key role in many systems that converged into today\\'s Internet."
-    },
-    {
-        "name": "Dr. Josh Bloch",
-        "email": "jbLoch@andRrew.cmu.edu",
-        "university": "Carnegie Mellon University",
-        "department": "Software and Societal Systems Department",
-        "research_topics": null,
-        "summary": "Dr. Josh Bloch holds a B.S. in computer science from Columbia University and a Ph.D. in computer science from Carnegie Mellon University. Bloch has decades of experience in software research and development."
-    },
-    {
-        "name": "Jeremy Lacomis",
-        "email": "jlacomis@andrew.cmu.edu",
-        "university": "Carnegie Mellon University",
-        "department": "Software and Societal Systems Department",
-        "research_topics": null,
-        "summary": "Jeremey Lacomis, SCS Mark Stehlik Postdoctoral Teaching Fellow"
-    },
-    {
-        "name": "Sauvik Das",
-        "email": "sauvik@cmu.edu",
-        "university": "Carnegie Mellon University",
-        "department": "Software and Societal Systems Department",
-        "research_topics": null,
-        "summary": "Assistant Professor, Human-Computer Interaction Institute"
-    },
-    {
-        "name": "He Ye",
-        "email": "Visitor-hey@andrew.cmu.edu",
-        "university": "Carnegie Mellon University",
-        "department": "Software and Societal Systems Department",
-        "research_topics": null,
-        "summary": "Wallenberg Foundation Post-Doctoral Fellow, Software and Societal Systems"
-    },
-    {
-        "name": "Steven Lipner",
-        "email": "slipner@andrew.cmu.edu",
-        "university": "Carnegie Mellon University",
-        "department": "Software and Societal Systems Department",
-        "research_topics": null,
-        "summary": "Steven B. Lipner, executive director of SAFECode, is a computer security pioneer with more than 40 years of experience as a researcher, development manager, and general manager in IT security. He holds an appointment as adjunct professor of computer science at the Institute for Software Research, School of Computer Science of Carnegie Mellon University."
-    },
-    {
-        "name": "Thomas Bock",
-        "email": "bockthom@cmu.edu",
-        "university": "Carnegie Mellon University",
-        "department": "Software and Societal Systems",
+        "name": "Daniel Anderson",
+        "email": "danders1@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
         "research_topics": [
-            "empirical software engineering",
-            "software evolution and maintenance",
-            "social and scientific aspects of software engineering",
-            "analysis of coordination and communication in open-source software projects",
-            "organizational patterns",
-            "developer networks",
-            "developer roles in evolving software projects",
-            "analyzing how software is used in science, especially in the era of machine learning and artificial intelligence"
+            "Applied Mathematics",
+            "Mathematical Biology"
         ],
-        "summary": "Dr. Thomas Bock is a post-doctoral researcher at the Software and Societal Systems Department at the School of Computer Science at Carnegie Mellon University. His research interests are focused on empirical software engineering, software evolution and maintenance, and social and scientific aspects of software engineering."
+        "summary": "The focus of my research is to develop mathematical modeling and scientific computing techniques to study problems arising in the areas of fluid mechanics, biology and materials science. I am particularly interested in applications where hydrodynamics are coupled to phase transformation processes."
     },
     {
-        "name": "Nandini Sharma",
-        "email": "nandini2@andrew.cmu.edu",
-        "university": "Carnegie Mellon University",
-        "department": "Software and Societal Systems Department",
+        "name": "Claire Merriman",
+        "email": "emerrima@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
         "research_topics": null,
-        "summary": "Post-Doctoral Associate, Software and Societal Systems"
+        "summary": "Claire Merriman is an Instructional Assistant Professor in the Mathematical Sciences Department at George Mason University."
     },
     {
-        "name": "Andrew Begel",
-        "email": "abegel@cmu.edu",
-        "university": "Carnegie Mellon University",
-        "department": "Software and Societal Systems",
+        "name": "Carlos N. Rautenberg",
+        "email": "crautenb@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
         "research_topics": [
-            "technology and AI to extend capabilities and enhance the quality of life for people with disabilities",
-            "inclusive technology workplace",
-            "tools for the future of remote work",
-            "HCI techniques to study and improve the software development process",
-            "biometrics and affect-based software engineering",
-            "social media for software engineering",
-            "collaborative software development",
-            "Agile methodologies",
-            "developer-centric knowledge management",
-            "flow and coordination",
-            "K-16 and beyond programming education"
+            "Applied Science",
+            "Math",
+            "Modeling"
         ],
-        "summary": "Andrew Begel is an Associate Professor of Computer Science in the Software and Societal Systems Department in the School of Computer Science at Carnegie Mellon University. His research examines how technology and AI can extend capabilities and enhance the quality of life for people with disabilities."
+        "summary": "I am currently an Assistant Professor at the Department of Mathematical Sciences."
     },
     {
-        "name": "Jim Berardone",
-        "email": "jberar@andrew.cmu.edu",
-        "university": "Carnegie Mellon University",
-        "department": "Software and Societal Systems Department",
+        "name": "Anton Lukyanenko",
+        "email": "alukyane@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "Math",
+            "Differential Geometry"
+        ],
+        "summary": "I work on research at the intersection of metric geometry with other fields of mathematics including analysis, dynamical systems, group theory and number theory. My primary focus is on the geometry of the Heisenberg group and more generally sub-Riemannian spaces."
+    },
+    {
+        "name": "Benjamin D. Schweinhart",
+        "email": "bschwei@gmu.edu",
+        "university": "George Mason University",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "Applied Mathematics",
+            "Computational Methods",
+            "Data Sciences",
+            "Manifolds and Cell Complexes",
+            "Materials Science",
+            "Mathematics, Artificial Intelligence, and Machine Learning",
+            "Probability",
+            "Topology"
+        ],
+        "summary": "I am an Assistant Professor in the Department of Mathematical Sciences at George Mason University. My research program focuses on problems in applied, stochastic, and computational geometry and topology, with applications to materials science, physics, and biology."
+    },
+    {
+        "name": "Dr. David Walnut",
+        "email": "dwalnut@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "Harmonic Analysis",
+            "Wavelet Theory"
+        ],
+        "summary": "David Walnut is a Professor in the Mathematical Sciences Department at GMU College of Science. His research interests include Harmonic Analysis and Wavelet Theory."
+    },
+    {
+        "name": "Christine Amaya",
+        "email": "camaya@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
         "research_topics": null,
-        "summary": "Jim Berardone is a special faculty member of Carnegie Mellon\u2019s Master of Software Engineering programs. His teaching focuses on product management and business strategy."
+        "summary": "Christine Amaya is a Student Support Specialist in the Mathematical Sciences Department at George Mason University."
     },
     {
-        "name": "Ben Titzer",
-        "email": "btitzer@andrew.cmu.edu",
-        "university": "Carnegie Mellon University",
-        "department": "Software and Societal Systems Department",
-        "research_topics": [
-            "systems programming languages",
-            "compilers",
-            "virtual machines",
-            "managed runtime systems",
-            "WebAssembly",
-            "Edge computing"
-        ],
-        "summary": "Ben Titzer is a Principal Researcher focusing on systems, including systems programming languages, compilers, and virtual machines. He co-founded WebAssembly and is currently working on increasing its usefulness and reach, particularly for academic research and new domains like Edge computing."
+        "name": "Christine Amaya",
+        "email": "camaya@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "Christine Amaya is a Student Support Specialist in the Mathematical Sciences Department at George Mason University."
     },
     {
-        "name": "Dr. Josh Sunshine",
-        "email": "joshsunshine@cmu.edu",
-        "university": "Carnegie Mellon University",
-        "department": "Software and Societal Systems Department",
-        "research_topics": [
-            "programming languages",
-            "software engineering",
-            "usability of reusable software components"
-        ],
-        "summary": "I am an Assistant Professor in the Software and Societal Systems Department at Carnegie Mellon University. I have broad research interests at the intersection of programming languages and software engineering."
+        "name": "Aman D'Souza",
+        "email": "adsouza5@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "Aman D'Souza is an Adjunct at George Mason University in the Mathematical Sciences Department."
     },
     {
-        "name": "Justin Chan",
-        "email": "justinc3@andrew.cmu.edu",
-        "university": "Carnegie Mellon University",
-        "department": "Software and Societal Systems",
-        "research_topics": [
-            "Mobile sensing",
-            "Computational health",
-            "Environmental sensing"
-        ],
-        "summary": "Justin is an assistant professor in the School of Computer Science and Department of Engineering and Computer Engineering at Carnegie Mellon University, where he directs the Mobile Sensing Lab. His group's research focuses on building intelligent mobile and embedded systems for computational health and large-scale environmental sensing."
+        "name": "Elizabeth Dinkelman",
+        "email": "edinkelm@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "Elizabeth Dinkelman is an Adjunct professor in the Mathematical Sciences Department at George Mason University."
     },
     {
-        "name": "Dr. Steven Wu",
-        "email": "zstevenwu@cmu.edu",
-        "university": "Carnegie Mellon University",
-        "department": "Software and Societal Systems",
-        "research_topics": [
-            "privacy",
-            "fairness",
-            "reliability",
-            "robustness",
-            "machine learning",
-            "statistics",
-            "optimization",
-            "differential privacy",
-            "game theory",
-            "mechanism design"
-        ],
-        "summary": "Steven Wu is an Assistant Professor in the School of Computer Science at Carnegie Mellon University, with an appointment in the Software and Societal Systems Department (in the Societal Computing program), and affiliated appointments with the Machine Learning Department and the Human-Computer Interaction Institute. His research studies the societal aspects of machine learning, focusing on aligning machine learning with societal values and making it more reliable in social and economic dynamics."
+        "name": "Catherine Sausville",
+        "email": "csausvil@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "Catherine Sausville leads the department\u2019s undergraduate committee and the Math Testing Center. She has led numerous academic and recruitment initiatives to improve the quality of mathematics education, impacting thousands of students across Mason."
     },
     {
-        "name": "Bogdan Vasilescu",
-        "email": "vasilescu@cmu.edu",
-        "university": "CMU",
-        "department": "Software and Societal Systems",
+        "name": "Casey Blacker",
+        "email": "cblacke@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
         "research_topics": [
-            "empirical software engineering",
-            "social computing",
-            "computer-supported cooperative work"
+            "moment maps",
+            "bundle gerbes",
+            "higher structures in algebra and geometry",
+            "quantization"
         ],
-        "summary": "Bogdan is an Associate Professor in the Software and Societal Systems Department of CMU's School of Computer Science. He is engaged in interdisciplinary research to offer data-driven answers to questions about empowering distributed teams to develop software effectively and productively."
+        "summary": "Casey Blacker is a Postdoctoral Research Fellow at GMU College of Science. They are interested in moment maps, bundle gerbes, higher structures in algebra and geometry, quantization, and related topics."
     },
     {
-        "name": "Kathleen M. Carley",
-        "email": "kathleen.carley@cs.cmu.edu",
-        "university": "Carnegie Mellon University",
-        "department": "Software and Societal Systems",
+        "name": "Christopher Jones",
+        "email": "cjone21@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "Christopher Jones is a Research Professor at George Mason University in the Mathematical Sciences Department."
+    },
+    {
+        "name": "Claire Merriman",
+        "email": "emerrima@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "Claire Merriman is an Instructional Assistant Professor in the Mathematical Sciences Department at George Mason University."
+    },
+    {
+        "name": "Anton Lukyanenko",
+        "email": "alukyane@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
         "research_topics": [
-            "Complex Socio-Technical Systems",
-            "Computing Technology and Policy",
-            "Network Science and Social Networks",
-            "Organizations",
-            "Software Data Analysis"
+            "Math",
+            "Differential Geometry"
         ],
-        "summary": "Kathleen M. Carley is a professor in the Software and Societal Systems Department in Carnegie Mellon's School of Computer Science. Her research combines cognitive science, sociology, organization science, and computer science to address complex social and organizational issues such as disinformation, counter-terrorism, and organizational design."
+        "summary": "I work on research at the intersection of metric geometry with other fields of mathematics including analysis, dynamical systems, group theory and number theory. My primary focus is on the geometry of the Heisenberg group and more generally sub-Riemannian spaces."
+    },
+    {
+        "name": "Frank (Trey) Andreani",
+        "email": "fandrean@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "Senior Instructor in the Mathematical Sciences Department."
+    },
+    {
+        "name": "Gabriela Bulancea",
+        "email": "gbulance@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "Banach Algebras",
+            "Function Spaces"
+        ],
+        "summary": "Gabriela Bulancea is an Instructional Associate Professor and Associate Chair of Teaching and Equity at George Mason University's College of Science. Her research interests include Banach Algebras and Function Spaces."
+    },
+    {
+        "name": "Geir Agnarsson",
+        "email": "gagnarss@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "Discrete geometry, polytopes and their algebraic structures.",
+            "Discrete mathematics, combinatorics, graph theory, posets and and\u00a0their connections to commutative algebra.",
+            "Commutative algebra finitely generated algebras over fields."
+        ],
+        "summary": "Geir Agnarsson is an Associate Professor at George Mason University's College of Science, specializing in mathematical sciences. His research interests include discrete geometry, combinatorics, and commutative algebra."
+    },
+    {
+        "name": "James Lawrence",
+        "email": "lawrence@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "James Lawrence is a Professor in the Mathematical Sciences Department at George Mason University."
+    },
+    {
+        "name": "Haja Razafinjatovo",
+        "email": "hrazafin@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "Haja Razafinjatovo is an Adjunct at George Mason University in the Mathematical Sciences Department."
+    },
+    {
+        "name": "Flavia Colonna",
+        "email": "fcolonna@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "Operator Theory",
+            "Complex Analysis",
+            "Discrete Harmonic Analysis",
+            "Potential Theory"
+        ],
+        "summary": "Flavia Colonna is a Professor in the Mathematical Sciences Department at George Mason University. Her research interests include Operator Theory, Complex Analysis, Discrete Harmonic Analysis, and Potential Theory."
+    },
+    {
+        "name": "Haja Razafinjatovo",
+        "email": "hrazafin@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "Haja Razafinjatovo is an Adjunct at George Mason University in the Mathematical Sciences Department."
+    },
+    {
+        "name": "Flavia Colonna",
+        "email": "fcolonna@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "Operator Theory",
+            "Complex Analysis",
+            "Discrete Harmonic Analysis",
+            "Potential Theory"
+        ],
+        "summary": "Flavia Colonna is a Professor in the Mathematical Sciences Department at George Mason University. Her research interests include Operator Theory, Complex Analysis, Discrete Harmonic Analysis, and Potential Theory."
+    },
+    {
+        "name": "Jennifer Lawler",
+        "email": "jlawler@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "Jennifer Lawler is the Assistant to the Chair in the Mathematical Sciences Department at George Mason University."
+    },
+    {
+        "name": "Igor Griva",
+        "email": "igriva@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "nonlinear constrained optimization",
+            "mathematical analysis",
+            "efficient implementation",
+            "application to problems in science and engineering"
+        ],
+        "summary": "My research focuses on developing algorithms for nonlinear constrained optimization, their mathematical analysis, efficient implementation and application to problems in science and engineering."
+    },
+    {
+        "name": "Dr. Harrison Bray",
+        "email": "hbray@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "Harrison Bray is an Assistant Professor in the Mathematical Sciences Department at George Mason University."
+    },
+    {
+        "name": "Jingya Yan",
+        "email": "jyan20@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "Jingya Yan is an Instructor in the Mathematical Sciences Department at George Mason University."
+    },
+    {
+        "name": "Douglas Eckley",
+        "email": "deckley2@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "Douglas Eckley is an Instructional Associate Professor in the Mathematical Sciences Department at George Mason University."
+    },
+    {
+        "name": "Karen Crossin",
+        "email": "kcrossin@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "Senior Instructor and Course Coordinator for Math 106, 271 & 272 at George Mason University."
+    },
+    {
+        "name": "Mahamadi Warma",
+        "email": "mwarma@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "Potential Theory",
+            "Linear and Nonlinear Partial Differential Equations",
+            "Nonlocal and Fractional Partial Differential Equations",
+            "Controllability, Observability and Stabilization of nonlocal Partial Differential Equations",
+            "Calculus of Variations Optimization"
+        ],
+        "summary": "Mahamadi Warma is a Professor at George Mason University. His research interests include Fractional Partial Differential Equations, Nonlocal Partial Differential Equations, Evolution Equations, Linear and non linear Partial Differential Equations, Potential theory, Dirichlet forms, Feller semigroups, Control Theory of PDEs, Optimal Control of PDEs."
+    },
+    {
+        "name": "Maria Emelianenko",
+        "email": "memelian@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "Applied Science",
+            "Biology",
+            "Biomedical Research",
+            "Computer Science",
+            "Data Sciences",
+            "Engineering",
+            "Materials Science",
+            "Math",
+            "Medical Proteomics",
+            "Modeling",
+            "Physics",
+            "Science Education",
+            "Simulation"
+        ],
+        "summary": "I am an interdisciplinary mathematician whose work is focused on applying mathematical theory to a wide range of applied problems. I serve as a Director of the Industrial Immersion program (http://math.gmu.edu/iip.php) and a Director of Graduate Studies for the Mathematics department."
+    },
+    {
+        "name": "Karen Crossin",
+        "email": "kcrossin@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "Senior Instructor and Course Coordinator for Math 106, 271 & 272 at George Mason University."
+    },
+    {
+        "name": "Maliha Luqman",
+        "email": "mluqman@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "Emmanuel Fleurantin",
+        "email": "efleuran@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "Emmanuel Fleurantin is a Postdoctoral Research Fellow in the Mathematical Sciences Department at George Mason University."
+    },
+    {
+        "name": "Pamela Yusko",
+        "email": "pyusko@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "Pamela Yusko is an Instructor in the Mathematical Sciences Department at George Mason University."
+    },
+    {
+        "name": "Brent Gorbutt",
+        "email": "bgorbutt@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "Brent Gorbutt is an Instructional Assistant Professor and Director of the Math Tutoring Center at George Mason University."
+    },
+    {
+        "name": "Robert Sachs",
+        "email": "rsachs@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "Nonlinear partial differential equations, especially integrable and near-integrable Hamiltonian systems",
+            "Education of gifted mathematics students"
+        ],
+        "summary": "Robert Sachs is a Professor in the Mathematical Sciences Department at GMU College of Science. His research focuses on nonlinear partial differential equations and the education of gifted mathematics students."
+    },
+    {
+        "name": "Rebecca R.G.",
+        "email": "rrebhuhn@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "Math"
+        ],
+        "summary": "Dr. R.G. is an Assistant Professor in the mathematics department at GMU. She does research in commutative algebra and teaches a variety of courses, including graduate algebra, geometry, abstract algebra, and history of math."
+    },
+    {
+        "name": "Rosemberg Toala-Enriquez",
+        "email": "rtoalaen@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "General Topology",
+            "Extremal combinatorics",
+            "Geometry",
+            "Percolation",
+            "Eden model growth on hyperbolic tessellations"
+        ],
+        "summary": "Rosemberg Toala-Enriquez is a mathematician interested in General Topology, extremal Combinatorics, and Geometry. He is also the Outreach Director of the Mason Experimental Geometry Lab and enjoys teaching and sharing the fun of math with general audiences."
+    },
+    {
+        "name": "Gary Lee Antonio dela Pena",
+        "email": "gdelape2@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "Gary Lee Antonio dela Pena is an Instructional Associate Professor and Undergraduate Academic Adviser at George Mason University's College of Science."
+    },
+    {
+        "name": "Ermias Kassaye",
+        "email": "ekassaye@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "Machine Learning",
+            "Artificial Intelligence",
+            "Applied Mathematics",
+            "Applied Science",
+            "Data Sciences",
+            "Deep Learning"
+        ],
+        "summary": "Ermias Kassaye is an Instructor in the Mathematical Sciences Department at GMU College of Science. His research areas include Machine Learning and Artificial Intelligence."
+    },
+    {
+        "name": "Harbir Lamba",
+        "email": "hlamba@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "Numerical Solution to ODEs and SDEs",
+            "Dynamical Systems",
+            "Mathematical Models in Economics",
+            "Agent-based financial modelling"
+        ],
+        "summary": "Harbir Lamba is an Associate Professor in the Mathematical Sciences Department at GMU College of Science. His research interests include numerical solutions to ODEs and SDEs, dynamical systems, mathematical models in economics, and agent-based financial modelling."
+    },
+    {
+        "name": "Sarswati Shah",
+        "email": "shah66@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "Postdoctoral Research Fellow in the Mathematical Sciences Department at George Mason University."
+    },
+    {
+        "name": "Scott Carson",
+        "email": "scarson4@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "Semigroup theory",
+            "Algebraic structures",
+            "Semigroup presentations"
+        ],
+        "summary": "Scott Carson is an Instructional Assistant Professor at George Mason University. His research interests are algebraic in nature, focusing on semigroup theory and the construction of semigroup presentations."
+    },
+    {
+        "name": "Tammie Howell",
+        "email": "thowell3@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "HR and Administrative Specialist at the Mathematical Sciences Department."
+    },
+    {
+        "name": "Timothy Sauer",
+        "email": "tsauer@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "Applied dynamical systems",
+            "Computational mathematics"
+        ],
+        "summary": "Timothy Sauer is a Professor in the Mathematical Sciences Department at GMU College of Science. His research interests include applied dynamical systems and computational mathematics."
+    },
+    {
+        "name": "Timothee Bryan",
+        "email": "tbryan5@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "Timothee Bryan is an Instructional Assistant Professor in the Mathematical Sciences Department at George Mason University."
+    },
+    {
+        "name": "Thomas Wanner",
+        "email": "twanner@gmu.edu",
+        "university": "George Mason University",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "Dynamics of partial differential equations",
+            "Formation and dynamics of patterns, phase separation phenomena (spinodal decomposition, nucleation)",
+            "Computational topology and its applications",
+            "Random and stochastic dynamical systems"
+        ],
+        "summary": "Thomas Wanner is a Professor in the Mathematical Sciences Department at George Mason University. His research focuses on dynamics of partial differential equations, pattern formation, computational topology, and stochastic dynamical systems."
+    },
+    {
+        "name": "Tammie Howell",
+        "email": "thowell3@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "HR and Administrative Specialist at the Mathematical Sciences Department."
+    },
+    {
+        "name": "Sean Lawton",
+        "email": "slawton3@gmu.edu",
+        "university": "George Mason University",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "Algebraic Geometry",
+            "Associative Rings and Algebras",
+            "Group Theory and Generalizations",
+            "Manifolds and Cell Complexes",
+            "Differential Geometry"
+        ],
+        "summary": "Sean Lawton serves as a Professor in the Department of Mathematical Sciences at George Mason University where he is the founder of the Mason Experimental Geometry Lab \u2014 an experimental research lab in mathematics."
+    },
+    {
+        "name": "Simone Bruschi",
+        "email": "sbruschi@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "Stephanie Gaffney",
+        "email": "sgaffne@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "Sharis Ahmadi",
+        "email": "sahmad42@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "Dr. Matthew Holzer",
+        "email": "mholzer@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "Optimization"
+        ],
+        "summary": "My research interests are in differential equations, existence and stability of traveling waves and pattern formation. Before coming to Mason, I completed my Ph.D. at Boston University and was a postdoc at the University of Minnesota."
+    },
+    {
+        "name": "Dr. Tyrus H. Berry",
+        "email": "tberry@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "Applied Science",
+            "Data Sciences",
+            "Math",
+            "Modeling"
+        ],
+        "summary": "My research is motivated by the rapid expansion of model complexity and data availability in the applied sciences. Traditional parametric modeling is subject to model error and I believe that modern complex systems call for model-free and semi-parametric approaches."
+    },
+    {
+        "name": "Walter Morris",
+        "email": "wmorris@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "Computer Science",
+            "Math"
+        ],
+        "summary": "I teach courses at the graduate and undergraduate level in Mathematics. I do research into algorithms and theory of discrete geometry and linear optimization."
+    },
+    {
+        "name": "Joanna Jauchen",
+        "email": "jjauchen@gmu.edu",
+        "university": "George Mason University",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "Joanna G. Jauchen is an instructional faculty member in Mathematics. They also serve as a course coordinator for both Business Calculus and for Mathematics for Preservice Elementary Educators."
+    },
+    {
+        "name": "Walter Morris",
+        "email": "wmorris@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "Computer Science",
+            "Math"
+        ],
+        "summary": "I teach courses at the graduate and undergraduate level in Mathematics. I do research into algorithms and theory of discrete geometry and linear optimization."
+    },
+    {
+        "name": "Michael Jarret",
+        "email": "mjarretb@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "Quantum computing"
+        ],
+        "summary": "Michael Jarret is an Assistant Professor in the Mathematical Sciences Department at George Mason University. His research interests include Quantum computing."
+    },
+    {
+        "name": "Rebecca Goldin",
+        "email": "rgoldin@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "symplectic geometry",
+            "group actions",
+            "related combinatorics",
+            "Schubert polynomials",
+            "intersection properties of Schubert varieties",
+            "toric varieties",
+            "equivariant cohomology",
+            "geometry of Hessenberg varieties"
+        ],
+        "summary": "Rebecca Goldin is a Professor at George Mason University whose research is in symplectic geometry, group actions and related combinatorics. She was also deeply involved with efforts to improve the media's use of statistics and mathematics through STATS.org."
+    },
+    {
+        "name": "Samuel Fairchild",
+        "email": "sfairch@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "Samuel Fairchild is an Instructional Assistant Professor in the Mathematical Sciences Department at George Mason University."
+    },
+    {
+        "name": "Rohit Khandelwal",
+        "email": "rkhandel@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "PDE Constrained Optimization",
+            "Adaptive Finite Element Methods."
+        ],
+        "summary": "Rohit Khandelwal is a Postdoctoral Research Fellow at George Mason University's College of Science, focusing on PDE Constrained Optimization and Adaptive Finite Element Methods."
+    },
+    {
+        "name": "Neil Epstein",
+        "email": "nepstei2@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "Math"
+        ],
+        "summary": "Neil Epstein is an Associate Professor in the Mathematical Sciences Department at George Mason University."
+    },
+    {
+        "name": "Sarah Khankan",
+        "email": "skhankan@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": null,
+        "summary": "Instructional Associate Professor and Director of the Math Testing Center at George Mason University."
+    },
+    {
+        "name": "Yiannis Loizides",
+        "email": "yloizide@gmu.edu",
+        "university": "GMU College of Science",
+        "department": "Mathematical Sciences Department",
+        "research_topics": [
+            "Differential Geometry",
+            "Noncommutative Geometry",
+            "Mathematical Physics"
+        ],
+        "summary": null
+    },
+    {
+        "name": "Audrina Farrar",
+        "email": "farraral@vcu.edu",
+        "university": "Virginia Commonwealth University",
+        "department": "Interdisciplinary Studies",
+        "research_topics": null,
+        "summary": "Audrina Farrar is an academic advisor in the Interdisciplinary Studies Program. She collaborates with students to overcome challenges in order to have a successful educational experience."
+    },
+    {
+        "name": "Christina Davis",
+        "email": "daviscl7@vcu.edu",
+        "university": "Virginia Commonwealth University",
+        "department": "Interdisciplinary Studies Program",
+        "research_topics": null,
+        "summary": "Christina Davis is an Academic Advisor at the Virginia Commonwealth University Interdisciplinary Studies Program. She supports students' quest to succeed and overcome barriers, believing that every student brings individual experiences and knowledge that can be applied interdisciplinarily."
+    },
+    {
+        "name": "Richard Quarshie",
+        "email": "quarshier2@vcu.edu",
+        "university": "Virginia Commonwealth University",
+        "department": "Interdisciplinary Studies",
+        "research_topics": null,
+        "summary": "Richard Quarshie is the Senior Advisor for Interdisciplinary Studies. He is interested in using communication as a tool to foster the growth and development of individuals and society as a whole and is passionate about motivating and guiding young students to move past the challenges before them in order to become successful."
+    },
+    {
+        "name": "Mary Chris Escobar",
+        "email": "escobarmc@vcu.edu",
+        "university": "Virginia Commonwealth University",
+        "department": "da Vinci Center for Innovation & Interdisciplinary Studies",
+        "research_topics": null,
+        "summary": "Mary-Chris Escobar is the Director of Student Success & Life Design at the da Vinci Center for Innovation & Interdisciplinary Studies. She leads student success efforts and is growing the Life Design curriculum at VCU, helping students use design-thinking to explore their purpose."
+    },
+    {
+        "name": "Vineeta Singh",
+        "email": "singhv8@vcu.edu",
+        "university": "Virginia Commonwealth University",
+        "department": "Interdisciplinary Studies Program",
+        "research_topics": [
+            "critical and abolitionist university studies",
+            "feminist pedagogies",
+            "queer pedagogies",
+            "abolitionist pedagogies",
+            "decolonial world-making"
+        ],
+        "summary": "Vineeta Singh is an Assistant Professor and Associate Director of Interdisciplinary Studies at VCU. Her teaching and research are grounded in critical and abolitionist university studies, and she is currently curating submissions for a special issue on abolitionist pedagogies."
+    },
+    {
+        "name": "Mariah Crilley",
+        "email": "mtcrilley@vcu.edu",
+        "university": "Virginia Commonwealth University",
+        "department": "Interdisciplinary Studies",
+        "research_topics": [
+            "ecocriticism",
+            "disability studies",
+            "medical humanities",
+            "malaria and the colonization of the American West",
+            "modern health wearables",
+            "Superman and Huntington's disease"
+        ],
+        "summary": "Mariah Crilley is the Director of Interdisciplinary Studies and an Associate Professor of Interdisciplinary Studies and University Curriculum Innovation. Her research draws on ecocriticism, disability studies, and the medical humanities to investigate how diseases shaped early American bodies and bodies of literature."
+    },
+    {
+        "name": "Kimberly Matthews",
+        "email": "matthewska@vcu.edu",
+        "university": "Virginia Commonwealth University",
+        "department": "Interdisciplinary Studies",
+        "research_topics": null,
+        "summary": "Dr. Kimberly A. Matthews is an Associate Professor of Interdisciplinary Studies and is a faculty member with VCU Transform, a two-year living-learning program for undergraduate students. She is the author of Images of America: The Richmond 34 and the Civil Rights Movement, released in 2020 and Images of Modern America: The Richmond Crusade for Voters, released in 2017. Her work encourages readers to see the importance of diversity, equity, and inclusion."
+    },
+    {
+        "name": "Zach Hilpert",
+        "email": "zhilpert@vcu.edu",
+        "university": "Virginia Commonwealth University",
+        "department": "Interdisciplinary Studies",
+        "research_topics": [
+            "American history",
+            "urban studies",
+            "visual culture"
+        ],
+        "summary": "Zach Hilpert is an Assistant Professor of Interdisciplinary Studies at VCU. His scholarship explores topics ranging from the visual depiction of urban disaster in the United States, to presidential visits to the state of Mississippi."
+    },
+    {
+        "name": "Michael Rackett, Ph.D.",
+        "email": "rackettmr@vcu.edu",
+        "university": "Virginia Commonwealth University",
+        "department": "Interdisciplinary Studies",
+        "research_topics": null,
+        "summary": "Michael Rackett teaches courses in the curriculum of the VCU Transform living-learning program, focusing on leadership development, community engagement, cultural identity and intercultural competence, and career readiness. He values the role of community knowledge and advocates for experiential education."
+    },
+    {
+        "name": "Alberto Dainotti",
+        "email": "dainotti@gatech.edu",
+        "university": "Georgia Institute of Technology",
+        "department": "School of Computer Science",
+        "research_topics": [
+            "Networking",
+            "Internet Security",
+            "Internet Data Science"
+        ],
+        "summary": "Associate Professor in the School of Computer Science at the College of Computing at Georgia Tech. My research is at the intersection of Internet measurement, data science and cybersecurity."
+    },
+    {
+        "name": "Zongchen Chen",
+        "email": "chenzongchen@gatech.edu",
+        "university": "Georgia Tech",
+        "department": "School of Computer Science",
+        "research_topics": [
+            "Randomized algorithms",
+            "discrete probability",
+            "learning theory"
+        ],
+        "summary": "Zongchen Chen is an assistant professor in the School of Computer Science at Georgia Tech. Previously, he was an assistant professor in the Department of Computer Science & Engineering at University at Buffalo, and an instructor (postdoc) in the Department of Mathematics at MIT."
+    },
+    {
+        "name": "Ashutosh Dhekne",
+        "email": "dhekne@gatech.edu",
+        "university": "Georgia Institute of Technology",
+        "department": "School of Computer Science",
+        "research_topics": [
+            "Wireless networking",
+            "mobile computing",
+            "IoT"
+        ],
+        "summary": "Ashutosh Dhekne is an Assistant Professor at the School of Computer Science at Georgia Institute of Technology. His research areas include wireless networking, mobile computing, and IoT."
+    },
+    {
+        "name": "Alexandra Boldyreva",
+        "email": "sasha.boldyreva@cc.gatech.edu",
+        "university": "Georgia Institute of Technology",
+        "department": "School of Cybersecurity and Prvacy and School of Computer Science",
+        "research_topics": [
+            "Cryptography",
+            "Information Security"
+        ],
+        "summary": "Alexandra Boldyreva is an accomplished researcher in the areas of cryptography and information security who has published nearly three dozen works about public key and other encryption methods and has recieved two test of time awards for her research. She holds partial appointments in the School of Cybersecurity and Prvacy and School of Computer Science."
+    },
+    {
+        "name": "Alexandros Daglis",
+        "email": "alexandros.daglis@cc.gatech.edu",
+        "university": "Georgia Institute of Technology",
+        "department": "School of Computer Science",
+        "research_topics": [
+            "Architecture"
+        ],
+        "summary": null
+    },
+    {
+        "name": "Jacob Abernethy",
+        "email": "prof@gatech.edu",
+        "university": "Georgia Institute of Technology",
+        "department": "School of Computer Science",
+        "research_topics": [
+            "Machine Learning"
+        ],
+        "summary": "I like to think about the mathematics behind Machine Learning and Game Theory, and I especially like discovering connections to Optimization, Statistics, and Economics."
+    },
+    {
+        "name": "Thomas Conte",
+        "email": "conte@cc.gatech.edu",
+        "university": "Georgia Institute of Technology",
+        "department": "School of Computer Science and Electrical & Computer Engineering",
+        "research_topics": [
+            "Computer architecture"
+        ],
+        "summary": "Tom Conte is the current Associate Dean for Research for the College of Computing and holds a joint appointment in the Schools of Computer Science and Electrical & Computer Engineering at the Georgia Institute of Technology. His research is in the areas of computer architecture and compiler optimization, with emphasis on novel and post-Moore ways to compute."
+    },
+    {
+        "name": "Mostafa Ammar",
+        "email": "ammar@cc.gatech.edu",
+        "university": "Georgia Institute of Technology",
+        "department": "School of Computer Science",
+        "research_topics": [
+            "Networking"
+        ],
+        "summary": "Mostafa Ammar is a Regents' Professor with the School of Computer Science at the Georgia Institute of Technology and served as Associate Chair of the School of Computer Science from 2006 to 2012. His research interests are in network architectures, protocols and services."
+    },
+    {
+        "name": "Joy Arulraj",
+        "email": "jarulraj3@gatech.edu",
+        "university": "Georgia Institute of Technology",
+        "department": "School of Computer Science",
+        "research_topics": [
+            "Database systems",
+            "machine learning"
+        ],
+        "summary": "Joy Arulraj is an associate professor in the School of Computer Science at Georgia Institute of Technology. His research interest is in database management systems, specifically large-scale data analytics, main memory systems, &nbsp;machine learning,&nbsp;and big code analytics."
+    },
+    {
+        "name": "Mustaque Ahamad",
+        "email": "mustaque.ahamad@cc.gatech.edu",
+        "university": "Georgia Institute of Technology",
+        "department": "School of Computer Science",
+        "research_topics": [
+            "Cybersecurity",
+            "Distributed Systems"
+        ],
+        "summary": "Dr. Mustaque Ahamad is a professor in the School of Computer Science at the Georgia Institute of Technology. He co-founded Pindrop Security and FraudScope and serves as chief scientist of these companies."
+    },
+    {
+        "name": "Suguman Bansal",
+        "email": "suguman@gatech.edu",
+        "university": "Georgia Institute of Technology",
+        "department": "School of Computer Science",
+        "research_topics": [
+            "Formal Methods",
+            "Artificial Intelligence",
+            "Programming Languages"
+        ],
+        "summary": "Suguman Bansal is an Assistant Professor in the School of Computer Science at Georgia Institute of Technology. Her research is focused on formal methods and their applications to artificial intelligence, programming languages, and machine learning."
+    },
+    {
+        "name": "Anderson, Weston",
+        "email": "weston@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Human Dimensions of Global Change - Coupled Human and Natural Systems"
+        ],
+        "summary": "I\u2019m an agroclimatologist studying the dynamics of climate variability and its relation to food security using reanalysis products, remote sensing observations and model simulations. I\u2019ve recently been working on how global-scale modes of climate variability pose a structured risk to food production and how to use this information to build crop yield forecast systems."
+    },
+    {
+        "name": "Bandaru, Varaprasad",
+        "email": "vbandaru@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Carbon, Vegetation Dynamics and Landscape-Scale Processes",
+            "Geospatial Information Science and Remote Sensing",
+            "Land Cover - Land Use Change"
+        ],
+        "summary": "Adjunct Associate Professor, Research Scientist USDA-ARS, Maricopa, AZ"
+    },
+    {
+        "name": "Barbieri, Lindsay",
+        "email": "lkbar@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Geospatial Information Science",
+            "Human Dimensions of Global Change - Coupled Human and Natural Systems"
+        ],
+        "summary": "Lindsay \"Bar\" Barbieri is an Assistant Research Professor at the University of Maryland and the Science-Policy Lead for the Global Land Programme. She works at the interface of land, society, and technology, supporting a diverse array of research projects, policy initiatives, and program implementation."
+    },
+    {
+        "name": "de Bremond, Ariane",
+        "email": "adebrem@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Human Dimensions of Global Change - Coupled Human and Natural Systems",
+            "Land Cover - Land Use Change"
+        ],
+        "summary": "I am Executive Director of the Global Land Programme (www.glp.earth) a Global Research Network of Future Earth. As of February 2023, GLP\\'s International Programme Office moved from the University of Bern, Switzerland to its new home at the University of Maryland, College Park."
+    },
+    {
+        "name": "Dabezies, Juan Martin",
+        "email": "juandabe@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Human Dimensions of Global Change - Coupled Human and Natural Systems"
+        ],
+        "summary": "Juan Martin Dabezies' work is within the TREPA project, which aims to reduce security risks arising from the intersection of human-wildlife conflict and animal disease, focusing on South Africa and Mozambique. He is also adjunct professor at the University of the Republic, Uruguay, where he leads a study group on human and non-animal relations, and works on conservation, biosecurity, and public policy issues in Latin America."
+    },
+    {
+        "name": "Brown, Molly",
+        "email": "mbrown52@umd.edu",
+        "university": "University of Maryland College Park",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Carbon, Vegetation Dynamics and Landscape-Scale Processes",
+            "Geospatial Information Science and Remote Sensing",
+            "Human Dimensions of Global Change - Coupled Human and Natural Systems"
+        ],
+        "summary": "Molly E. Brown has two decades of experience in interdisciplinary research using satellite remote sensing data and models with socio-economic and demographic information to better understand food security drivers. She works on conflict, climate, and agricultural development impacts on communities in Africa and Asia, with a focus on improving decision making at a variety of scales."
+    },
+    {
+        "name": "Chini, Louise",
+        "email": "lchini@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Carbon, Vegetation Dynamics and Landscape-Scale Processes",
+            "Human Dimensions of Global Change - Coupled Human and Natural Systems",
+            "Land Cover - Land Use Change"
+        ],
+        "summary": "Dr. Louise Parsons Chini is an Associate Research Professor in the Department of Geographical Sciences at the University of Maryland. Her research interests focus on human interactions with the Earth System, particularly land-use change and its associated impacts on the carbon cycle, terrestrial vegetation dynamics, and climate change."
+    },
+    {
+        "name": "Hall, Joanne",
+        "email": "jhall1@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Geospatial Information Science and Remote Sensing",
+            "Human Dimensions of Global Change - Coupled Human and Natural Systems",
+            "Land Cover - Land Use Change"
+        ],
+        "summary": "Dr. Joanne Hall is an Assistant Research Professor in the Department of Geographical Sciences at the University of Maryland, College Park. Her current research interests lie in the broad areas of satellite mapping of land-cover and land-use change, with a particular emphasis on active fire and burned area mapping."
+    },
+    {
+        "name": "Hansen, Matthew C.",
+        "email": "mhansen@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Geospatial Information Science and Remote Sensing",
+            "Land Cover - Land Use Change"
+        ],
+        "summary": "Prof. Matthew Hansen is a remote sensing scientist with a research specialization in large area land cover and land use change mapping. His research is focused on developing improved algorithms, data inputs and thematic outputs which enable the mapping of land cover change at regional, continental and global scales."
+    },
+    {
+        "name": "Dubayah, Ralph",
+        "email": "dubayah@umd.edu",
+        "university": "University of Maryland, College Park",
+        "department": "Geographical Sciences",
+        "research_topics": [
+            "Carbon, Vegetation Dynamics and Landscape-Scale Processes",
+            "Geospatial Information Science and Remote Sensing"
+        ],
+        "summary": "Ralph Dubayah is Professor of Geographical Sciences at the University of Maryland, College Park. His main areas of interest are ecosystem characterization for carbon modeling, habitat and biodiversity studies, land surface energy and water balance modeling, spatial analysis and remote sensing science."
+    },
+    {
+        "name": "Hathaway, Jonathon",
+        "email": "jhathaw2@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "political conflict",
+            "military geography",
+            "technological innovation and integration",
+            "human-environmental interactions",
+            "Africa"
+        ],
+        "summary": "Jonathon Hathaway is a Senior Systems Engineer at a small private consulting firm, an Intelligence Officer in the U.S. Navy Reserves, and an Assistant Professor at the National Intelligence University. He has over 20 years of experience supporting the U.S. Intelligence Community, Department of Defense and academia."
+    },
+    {
+        "name": "Fohringer, Christian",
+        "email": "cf@ecos.au.dk",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Illegal Wildlife Trade",
+            "DNA-metabarcoding",
+            "Ecology of Zoonosis",
+            "Environmental Metabolomics",
+            "Space-for-Time Analysis"
+        ],
+        "summary": "Dr. Fohringer is a wildlife biologist specialized on linking biotelemetry data of animals with an array of biomolecular and social-ecological approaches to investigate the cumulative impacts of anthropogenic pressures on wide-ranging species. They currently work on muskox ecophysiology via environmental metabolomics in an MSCA-postdoctoral fellowship at the Dpt of Bioscience, Aarhus University."
+    },
+    {
+        "name": "Klaus Hubacek",
+        "email": "k.hubacek@rug.nl",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Human Dimensions of Global Change - Coupled Human and Natural Systems"
+        ],
+        "summary": "Adjunct Professor"
+    },
+    {
+        "name": "Humber, Michael",
+        "email": "mhumber@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Carbon, Vegetation Dynamics and Landscape-Scale Processes",
+            "Geospatial Information Science and Remote Sensing"
+        ],
+        "summary": "Michael Humber is an Associate Research Professor in the Department of Geographical Sciences. He focuses on developing and distributing satellite-based data products that improve the quality and availability of data to agricultural decision-makers and farmers."
+    },
+    {
+        "name": "Justice, Chris",
+        "email": "cjustice@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Geospatial Information Science and Remote Sensing",
+            "Human Dimensions of Global Change - Coupled Human and Natural Systems",
+            "Land Cover - Land Use Change"
+        ],
+        "summary": "Chris Justice is a Distinguished University Professor at the University of Maryland. His current research is on land cover and land use change, land observations and data products, global agricultural monitoring, and their associated information technology and decision support systems."
+    },
+    {
+        "name": "Hunka, Neha",
+        "email": "nhunka@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Carbon, Vegetation Dynamics and Landscape-Scale Processes",
+            "Land Cover - Land Use Change"
+        ],
+        "summary": "Neha Hunka is an Assistant Research Professor at the University of Maryland (UMD), College Park, leading efforts towards the harmonization of space-based forest biomass maps to facilitate understanding and uptake of such maps by countries for policy reporting within frameworks of the United Nations Framework Convention on Climate Change (UNFCCC)."
+    },
+    {
+        "name": "Hathaway, Jonathon",
+        "email": "jhathaw2@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "political conflict",
+            "military geography",
+            "technological innovation and integration",
+            "human-environmental interactions",
+            "Africa"
+        ],
+        "summary": "Jonathon Hathaway is a Senior Systems Engineer at a small private consulting firm, an Intelligence Officer in the U.S. Navy Reserves, and an Assistant Professor at the National Intelligence University. He has over 20 years of experience supporting the U.S. Intelligence Community, Department of Defense and academia."
+    },
+    {
+        "name": "Hunka, Neha",
+        "email": "nhunka@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Carbon, Vegetation Dynamics and Landscape-Scale Processes",
+            "Land Cover - Land Use Change"
+        ],
+        "summary": "Neha Hunka is an Assistant Research Professor at the University of Maryland (UMD), College Park, leading efforts towards the harmonization of space-based forest biomass maps to facilitate understanding and uptake of such maps by countries for policy reporting within frameworks of the United Nations Framework Convention on Climate Change (UNFCCC)."
+    },
+    {
+        "name": "Ma, Jack (Jianguo)",
+        "email": "jma3@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Geospatial Information Science and Remote Sensing"
+        ],
+        "summary": "MS Program Director"
+    },
+    {
+        "name": "Qi, Wenlu",
+        "email": "wqi@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Carbon, Vegetation Dynamics and Landscape-Scale Processes",
+            "Geospatial Information Science and Remote Sensing"
+        ],
+        "summary": "Wenlu's interests mainly focus on the application of lidar and radar remote sensing on forest structure and biomass estimation. She is currently working on fusion between lidar data from NASA's Global Ecosystem Dynamics Investigation (GEDI) mission and Interferometric Synthetic Aperture Radar (InSAR) data from DLR's TerraSAR-X/TanDEM-X mission for improved forest biomass estimation over large areas."
+    },
+    {
+        "name": "Pickens, Amy",
+        "email": "ahudson2@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Geospatial Information Science and Remote Sensing",
+            "Land Cover - Land Use Change"
+        ],
+        "summary": "Amy Pickens is an Assistant Research Professor at the University of Maryland."
+    },
+    {
+        "name": "Ma, Jack (Jianguo)",
+        "email": "jma3@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Geospatial Information Science and Remote Sensing"
+        ],
+        "summary": "MS Program Director"
+    },
+    {
+        "name": "Ma, Lei",
+        "email": "lma6@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Carbon, Vegetation Dynamics and Landscape-Scale Processes",
+            "Geospatial Information Science and Remote Sensing",
+            "Land Cover - Land Use Change"
+        ],
+        "summary": "Assistant Research Professor"
+    },
+    {
+        "name": "Nakalembe, Catherine",
+        "email": "cnakalem@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Geospatial Information Science and Remote Sensing",
+            "Human Dimensions of Global Change - Coupled Human and Natural Systems",
+            "Land Cover - Land Use Change",
+            "Remote Sensing"
+        ],
+        "summary": "Dr. Nakalembe is an Assistant Professor at the University of Maryland, the Africa Program Director under NASA Harvest, and a member of the NASA SERVIR Applied Sciences Team. Catherine leads projects focusing on the development methods and applications of satellite remote sensing and machine learning to agriculture and food security, land use and land-use change mapping, humanitarian mapping, and climate change."
+    },
+    {
+        "name": "Tucker, Compton",
+        "email": "compton.j.tucker@nasa.gov",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Gross Primary Production",
+            "Semi-Arid Tree Carbon",
+            "Food Security",
+            "Infectious Diseases linked to Weather",
+            "Glacier Extent & Remote Sensing"
+        ],
+        "summary": "Dr. Compton Tucker is a Scientist in the Earth Sciences Division at NASA Goddard Space Flight Center and an Adjunct Professor at the University of Maryland. Tucker is known for pioneering satellite-based time-series monitoring of land vegetation for continental and global studies."
+    },
+    {
+        "name": "Tucker, Compton",
+        "email": "compton.j.tucker@nasa.gov",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Gross Primary Production",
+            "Semi-Arid Tree Carbon",
+            "Food Security",
+            "Infectious Diseases linked to Weather",
+            "Glacier Extent & Remote Sensing"
+        ],
+        "summary": "Dr. Compton Tucker is a Scientist in the Earth Sciences Division at NASA Goddard Space Flight Center and an Adjunct Professor at the University of Maryland. Tucker is known for pioneering satellite-based time-series monitoring of land vegetation for continental and global studies."
+    },
+    {
+        "name": "Stewart, Kathleen",
+        "email": "stewartk@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Geospatial Information Science",
+            "Geospatial Information Science and Remote Sensing"
+        ],
+        "summary": "Kathleen Stewart is Professor in the Department of Geographical Sciences and Director of the Center for Geospatial Information Science. She works in the area of geographic information science with a focus on geospatial dynamics, mobility and spatial access, often in a big geospatial data context and using approaches that lie in the expanding field of spatial data science."
+    },
+    {
+        "name": "Song, Xiaopeng",
+        "email": "xpsong@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Carbon, Vegetation Dynamics and Landscape-Scale Processes",
+            "Geospatial Information Science and Remote Sensing",
+            "Land Cover - Land Use Change"
+        ],
+        "summary": "Dr. Xiaopeng Song is an Assistant Professor in the Department of Geographical Sciences. His current research focuses on understanding the trends, drivers and impacts of global land-use change using satellite remote sensing and geospatial techniques."
+    },
+    {
+        "name": "Santamaria Artigas, Andres",
+        "email": "asantam@umd.edu",
+        "university": "University of Maryland, College Park",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Carbon, Vegetation Dynamics and Landscape-Scale Processes",
+            "Geospatial Information Science and Remote Sensing",
+            "Land Cover - Land Use Change"
+        ],
+        "summary": "Andres Santamaria Artigas is an Assistant Research Professor at the University of Maryland. He is also affiliated with NASA GSFC."
+    },
+    {
+        "name": "Sahajpal, Ritvik",
+        "email": "ritvik@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Carbon, Vegetation Dynamics and Landscape-Scale Processes",
+            "Geospatial Information Science and Remote Sensing",
+            "Human Dimensions of Global Change - Coupled Human and Natural Systems",
+            "Land Cover - Land Use Change"
+        ],
+        "summary": "Dr. Sahajpal is crop condition co-lead at the University of Maryland Harvest Hub, providing research support for Harvest activities. His research expertise is broadly related to using Earth observation data to monitor crop yields from field to global scales, modeling the impacts of conservative agriculture practices on soil health and crop yield, and mapping land-use and land-cover change and modeling their impacts on the carbon-climate system."
+    },
+    {
+        "name": "Roger, Jean-Claude",
+        "email": "roger63@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Remote Sensing of Atmosphere and Land",
+            "Atmospheric Correction (VIIRS, MODIS, Sentinel(s), Landsat(s), Planet, WorldviewMERIS...)",
+            "Calibration/Validation",
+            "Radiative Transfer",
+            "Aerosol characterization (chemical, microphysical, physical, radiative) and Aerosol radiative impact",
+            "Polarization of the Atmospheric Light"
+        ],
+        "summary": "Jean-Claude Roger is a Research Professor at the University of Maryland, focusing on remote sensing of atmosphere and land, atmospheric correction, and aerosol characterization."
+    },
+    {
+        "name": "Sergii Skakun",
+        "email": "skakun@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": null,
+        "summary": "Associate Professor at the University of Maryland."
+    },
+    {
+        "name": "Turubanova, Svetlana",
+        "email": "sveta@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Land Cover - Land Use Change"
+        ],
+        "summary": "Assistant Research Scientist"
+    },
+    {
+        "name": "Rappaport, Danielle I",
+        "email": "drappap@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Carbon, Vegetation Dynamics and Landscape-Scale Processes",
+            "Remote Sensing"
+        ],
+        "summary": "Danielle Rappaport is an Assistant Research Professor in the Department of Geographical Sciences at the University of Maryland. Danielle is part of the GEDI team, a satellite mission providing global insights into the three-dimensional structure of Earth's terrestrial ecosystems."
+    },
+    {
+        "name": "Zhou, Naijun",
+        "email": "njzhou@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Geospatial Information Science and Remote Sensing"
+        ],
+        "summary": "GIScience research and application. Develop algorithms and tools to measure semantic similarity, to achieve automated geospatial data integration, and to construct geospatial ontologies. Research and development of Internet GIS and geospatial portals."
+    },
+    {
+        "name": "Zubkova, Maria",
+        "email": "mzubkova@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Geospatial Information Science and Remote Sensing"
+        ],
+        "summary": "Dr. Maria Zubkova is an Assistant Research Professor who works with MODIS and VIIRS Burned Area and Active Fire group that develops and validates official NASA fire products. Her research in satellite-based wildfire mapping addresses the need to enhance ecosystem and community resilience to fire, as well as those that promote the use of beneficial fire."
+    },
+    {
+        "name": "Zou, Zhenhua (hua)",
+        "email": "zhzou@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Geospatial Information Science and Remote Sensing",
+            "Land Cover - Land Use Change"
+        ],
+        "summary": "I primarily work on time series mapping of wetlands, water, and vegetation systems, as well as change detection and driver analysis utilizing remote sensing data (Optical, SAR, Lidar), Google Earth Engine, HPCs, and deep learning models. In recent years, I designed National Wetland Inventory (NWI) update targeting tools for the entire U.S., and mapped sub-pixel water fraction (SWF) and generated vegetation classification of Arctic National Wildlife Refuge (ANWR) in Alaska. I also mapped open surface water at state, country, and globe scales. Additionally, I estimated Chlorophyll-a concentration in various\u00a0lakes using Landsat/Sentinel images and Chlorophyll-a field measurements."
+    },
+    {
+        "name": "Yearwood, Keith",
+        "email": "kyearwoo@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Fluvial Geomorphology"
+        ],
+        "summary": "Undergraduate Director and Lecturer"
+    },
+    {
+        "name": "Xiong, Lin",
+        "email": "lxiong@umd.edu",
+        "university": "University of Maryland",
+        "department": "Department of Geographical Sciences",
+        "research_topics": [
+            "Carbon, Vegetation Dynamics and Landscape-Scale Processes"
+        ],
+        "summary": "Lin Xiong is an Assistant Research Professor at the Department of Geographical Sciences in the University of Maryland, College Park. His research focuses on coastal and wetland ecosystems with remote sensing in the NASA GEDI Mission Team and he is currently working on the development of algorithms, data fusion, calibration, and validation for GEDI products."
+    },
+    {
+        "name": "Douglas A. Lauffenburger, PhD",
+        "email": "lauffen@mit.edu",
+        "university": "MIT",
+        "department": "Department of Biological Engineering",
+        "research_topics": [
+            "Chemicals and Materials",
+            "Cancer Biology",
+            "Computational Systems Biology",
+            "Climate, Environment, and Toxicology",
+            "Immunoengineering"
+        ],
+        "summary": "Douglas A. Lauffenburger is the Ford Professor of Engineering at MIT. His research focuses on molecular cell bioengineering, applying engineering approaches to understand cell function and design molecular- and cell-based technologies, particularly in receptor-mediated regulation of mammalian blood and tissue cell behavior."
+    },
+    {
+        "name": "Domitilla Del Vecchio, PhD",
+        "email": "ddv@mit.edu",
+        "university": "Massachusetts Institute of Technology (MIT)",
+        "department": "Department of Mechanical Engineering",
+        "research_topics": [
+            "Synthetic Biology"
+        ],
+        "summary": "Del Vecchio\u2019s group focuses on model-based analysis, design, and control of biomolecular networks in living cells. The objective is to make the engineering of synthetic genetic circuits in living organisms more robust to context, modular, and hence more scalable."
+    },
+    {
+        "name": "Ed Boyden, PhD",
+        "email": "edboyden@mit.edu",
+        "university": "MIT",
+        "department": "Departments of Brain and Cognitive Sciences, Media Arts and Sciences, and Biological Engineering",
+        "research_topics": [
+            "Chemicals and Materials"
+        ],
+        "summary": "We develop and systematically apply radical new technologies to analyze, repair, and simulate the brain, at a deep and mechanistic level."
+    },
+    {
+        "name": "Eric Alm, PhD",
+        "email": "ejalm@mit.edu",
+        "university": "MIT",
+        "department": "Biological Engineering",
+        "research_topics": [
+            "Computational Systems Biology",
+            "Climate, Environment, and Toxicology",
+            "Microbiome Engineering and Infectious Disease",
+            "Synthetic Biology",
+            "Tissue Engineering"
+        ],
+        "summary": "Eric Alm's research includes both computational/theoretical and experimental approaches to understanding and engineering the human microbiome. His research is focused on translating basic science discoveries rapidly into the clinic, where they can contribute to better outcomes for patients."
+    },
+    {
+        "name": "Eric Alm, PhD",
+        "email": "ejalm@mit.edu",
+        "university": "MIT",
+        "department": "Biological Engineering",
+        "research_topics": [
+            "Computational Systems Biology",
+            "Climate, Environment, and Toxicology",
+            "Microbiome Engineering and Infectious Disease",
+            "Synthetic Biology",
+            "Tissue Engineering"
+        ],
+        "summary": "Eric Alm's research includes both computational/theoretical and experimental approaches to understanding and engineering the human microbiome. His research is focused on translating basic science discoveries rapidly into the clinic, where they can contribute to better outcomes for patients."
+    },
+    {
+        "name": "Elfar Adalsteinsson",
+        "email": "elfar@mit.edu",
+        "university": "Massachusetts Institute of Technology",
+        "department": "Electrical Engineering and Computer Science and Institute for Medical Engineering and Computer Science",
+        "research_topics": null,
+        "summary": "Elfar Adalsteinsson, Professor of Electrical Engineering and Computer Science and of MIT\u2019s Division of Health Sciences and Technology, joined the MIT faculty and the Research Laboratory of Electronics in 2004."
+    },
+    {
+        "name": "Brett Bouma",
+        "email": "bouma@helix.mgh.harvard.edu",
+        "university": "Massachusetts General Hospital and Harvard Medical School",
+        "department": "Dermatology",
+        "research_topics": [
+            "novel technologies for disease diagnosis and treatment",
+            "clinical studies of cervical cancer",
+            "clinical studies of bladder cancer",
+            "clinical studies of coronary atherosclerosis",
+            "clinical studies of laryngeal pathology",
+            "clinical studies of dermatologic lesions",
+            "clinical studies of colonic and esophageal cancer",
+            "clinical studies of diseases of the common bile duct and pancreas",
+            "optical coherence tomography (OCT)"
+        ],
+        "summary": "Dr. Bouma's research focuses on novel technologies for disease diagnosis and treatment, spanning from early innovation through development and validation and into clinical applications. He is internationally recognized for important contributions to optical coherence tomography (OCT), making this technology a clinical reality."
+    },
+    {
+        "name": "Regina Barzilay",
+        "email": "reginab@mit.edu",
+        "university": "MIT",
+        "department": "Department of Electrical Engineering and Computer Science (EECS)",
+        "research_topics": [
+            "Natural Language Processing",
+            "Applications of Deep Learning to Chemistry",
+            "Applications of Deep Learning to Oncology"
+        ],
+        "summary": "Regina Barzilay is a Delta Electronics professor in the Department of Electrical Engineering and Computer Science and a member of the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT. Her research interests are in natural language processing, applications of deep learning to chemistry and oncology."
+    },
+    {
+        "name": "Henrike C. Besche",
+        "email": "hbesche@mit.edu",
+        "university": "MIT",
+        "department": "Division of Health Sciences and Technology",
+        "research_topics": null,
+        "summary": "Henrike is a medical educator and scholar. She joined MIT\u2019s Division of Health Sciences and Technology in 2024 as Senior Lecturer and Director of Education."
+    },
+    {
+        "name": "Sangeeta N. Bhatia",
+        "email": "imes@mit.edu",
+        "university": "MIT Institute for Medical Engineering & Science",
+        "department": null,
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "Lydia Bourouiba",
+        "email": "lbouro@mit.edu",
+        "university": "MIT",
+        "department": "Department of Civil and Environmental Engineering, Department of Mechanical Engineering, and the Institute for Medical Engineering & Science (IMES)",
+        "research_topics": [
+            "Fluid Physics and Biophysics",
+            "Health, Disease Transmission"
+        ],
+        "summary": "Lydia Bourouiba is a physical applied mathematician concentrating on geophysical problems of hydrodynamic turbulence and on the mathematical modeling of population dynamics and disease transmission. Her research specializes in developing and joining advanced fluid dynamics experiments, biophysics, and applied mathematics to elucidate the fundamental multi-scale dynamics of fluid fragmentation."
+    },
+    {
+        "name": "Emery N. Brown",
+        "email": "imes@mit.edu",
+        "university": "MIT",
+        "department": "Institute for Medical Engineering & Science",
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "Kwanghun Chung",
+        "email": "imes@mit.edu",
+        "university": "MIT Institute for Medical Engineering & Science",
+        "department": null,
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "Arup K. Chakraborty",
+        "email": "arupc@mit.edu",
+        "university": "MIT",
+        "department": "Chemical Engineering, Physics and Chemistry",
+        "research_topics": [
+            "Infectious Diseases/Immunology/virology",
+            "Regulation of transcription",
+            "Condensate biology",
+            "Statistical Physics and computation"
+        ],
+        "summary": "Arup K. Chakraborty is one of the 12 Institute Professors at MIT and served as the founding Director of MIT\u2019s Institute for Medical Engineering and Science. His work focuses on bringing together approaches from immunology, physics, and engineering to understand T cell signaling, virus evolution, antibody responses, and vaccine design."
+    },
+    {
+        "name": "Arup K. Chakraborty",
+        "email": "arupc@mit.edu",
+        "university": "MIT",
+        "department": "Chemical Engineering, Physics and Chemistry",
+        "research_topics": [
+            "Infectious Diseases/Immunology/virology",
+            "Regulation of transcription",
+            "Condensate biology",
+            "Statistical Physics and computation"
+        ],
+        "summary": "Arup K. Chakraborty is one of the 12 Institute Professors at MIT and served as the founding Director of MIT\u2019s Institute for Medical Engineering and Science. His work focuses on bringing together approaches from immunology, physics, and engineering to understand T cell signaling, virus evolution, antibody responses, and vaccine design."
+    },
+    {
+        "name": "Emery N. Brown",
+        "email": "imes@mit.edu",
+        "university": "MIT",
+        "department": "Institute for Medical Engineering & Science",
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "Admir Masic",
+        "email": "masic@mit.edu",
+        "university": "Massachusetts Institute of Technology",
+        "department": "Department of Civil and Environmental Engineering",
+        "research_topics": [
+            "sustainable construction materials",
+            "biomineralization",
+            "multifunctional cement-based materials",
+            "self-healing concrete materials",
+            "carbon absorbing concretes",
+            "electron conducting cement-based materials"
+        ],
+        "summary": "Professor Masic\u2019s research focuses on the science-enabled engineering of sustainable construction materials for large-scale infrastructure innovation. A chemist by training, with expertise in biomineralization, he specializes in the development of multifunctional cement-based materials, ranging from self-healing concrete materials to carbon absorbing concretes and electron conducting cement-based materials."
+    },
+    {
+        "name": "Elfatih Eltahir",
+        "email": "eltahir@mit.edu",
+        "university": "MIT",
+        "department": "Department of Civil and Environmental Engineering",
+        "research_topics": [
+            "global climate change",
+            "regional land use/ land cover change",
+            "water availability",
+            "extreme weather",
+            "spread of vector-borne diseases"
+        ],
+        "summary": "Elfatih Eltahir is interested in understanding how global climate change as well as regional land use/ land cover change may impact society through changes in the patterns of water availability, extreme weather, and spread of vector-borne diseases. Together with his students, he develops sophisticated numerical models that are used for projecting such impacts at regional scales."
+    },
+    {
+        "name": "Andrew Whittle",
+        "email": "ajwhittl@mit.edu",
+        "university": "MIT",
+        "department": "Civil Engineering",
+        "research_topics": [
+            "Geotechnical engineering",
+            "Constitutive models for geomaterials",
+            "Analysis methods for foundations",
+            "Excavations and tunnels",
+            "In situ test methods and ground improvement",
+            "Field monitoring and sensor networks"
+        ],
+        "summary": "Andrew Whittle is the Edmund K. Turner Professor in Civil Engineering at MIT. His research interests include geotechnical engineering, constitutive models for geomaterials, and analysis methods for foundations."
+    },
+    {
+        "name": "Benedetto Marelli",
+        "email": "bmarelli@MIT.edu",
+        "university": "Massachusetts Institute of Technology",
+        "department": "Department of Civil and Environmental Engineering",
+        "research_topics": [
+            "structural biopolymers",
+            "biomineralization",
+            "self-assembly",
+            "bio-inspired materials",
+            "mechanical and optoelectronic properties of natural polymers",
+            "biocomposites",
+            "additive manufacturing"
+        ],
+        "summary": "Benedetto (Ben) Marelli\u2019s research group works in the area of structural biopolymers, biomineralization and self-assembly. By using biofabrication strategies, the research group designs bio-inspired materials that work at the biotic/abiotic interface to\u00a0prevent or mitigate environmental impact."
+    },
+    {
+        "name": "Ali Jadbabaie",
+        "email": "jadbabai@MIT.EDU",
+        "university": "Massachusetts Institute of Technology",
+        "department": "Department of Civil and Environmental Engineering",
+        "research_topics": [
+            "Network Science, Network Economics",
+            "Consensus and information aggregation in social networks",
+            "Cooperative control of multiagent systems",
+            "Applications of algebraic topology in coverage and deployment of sensor networks",
+            "Analysis, optimization, and control of networked dynamical systems in physics, engineering and biology",
+            "Optimization, and optimal control of nonlinear and hybrid systems",
+            "Motion coordination and vison-based control of unmanned air and ground vehicles",
+            "Robust control",
+            "Spectral Graph theory"
+        ],
+        "summary": "JR East Professor, Core faculty, Institute for Data, Systems, and Society; Department Head."
+    },
+    {
+        "name": "Caitlin Mueller",
+        "email": "caitlinm@mit.edu",
+        "university": "MIT",
+        "department": "Department of Civil and Environmental Engineering",
+        "research_topics": [
+            "computational methods and tools for synthesizing architectural and structural intentions in early-stage design",
+            "digital fabrication",
+            "collaboration between architects and engineers from a historical perspective"
+        ],
+        "summary": "Caitlin Mueller is a researcher, designer, and educator working at the interface of architecture and structural engineering. She leads the Digital Structures research group and focuses on developing new computational methods and tools for synthesizing architectural and structural intentions in early-stage design."
+    },
+    {
+        "name": "Dara Entekhabi",
+        "email": "darae@mit.edu",
+        "university": "MIT",
+        "department": "Department of Civil and Environmental Engineering",
+        "research_topics": [
+            "Earth remote sensing",
+            "Land-atmosphere interaction and boundary layer processes",
+            "Dynamics of winter-time extra-tropical atmosphere and its predictability",
+            "Data Assimilation: Techniques development and applications",
+            "Land evaporation retrieval using multi-platform remotely sensed data",
+            "Sensor network model-integration closed-loop control",
+            "Surface water-groundwater interaction and hillslope hydrology"
+        ],
+        "summary": "Dara Entekhabi is a Professor at MIT. His research interests include Earth remote sensing, land-atmosphere interaction, and data assimilation."
+    },
+    {
+        "name": "Charles F. Harvey",
+        "email": "charvey@mit.edu",
+        "university": "Massachusetts Institute of Technology",
+        "department": "Department of Civil and Environmental Engineering",
+        "research_topics": [
+            "Carbon Storage, hydrology, and ecology of tropical peat forests (Research site in Borneo)",
+            "Arsenic contamination of groundwater (Research sites in Bangladesh and Vietnam)",
+            "Coastal Groundwater waters",
+            "Carbon Sequestration"
+        ],
+        "summary": "Charles F. Harvey is a Professor at MIT's Department of Civil and Environmental Engineering. His research focuses on carbon storage, hydrology, and arsenic contamination of groundwater."
+    },
+    {
+        "name": "David Simchi-Levi",
+        "email": "dslevi@mit.edu",
+        "university": "MIT",
+        "department": "Civil and Environmental Engineering and Engineering Systems",
+        "research_topics": [
+            "Statistical learning and decision making",
+            "Transportation and logistics systems",
+            "Supply chain management",
+            "Revenue and yield management",
+            "Optimization based decision support systems",
+            "Operations research",
+            "Flexibility and Risk Management"
+        ],
+        "summary": "David Simchi-Levi is the William Barton Rogers Professor in Energy, and Professor of Civil and Environmental Engineering and Engineering Systems at MIT. He also serves as the head of the MIT Data Science Lab and is considered one of the premier thought leaders in supply chain management and business analytics."
+    },
+    {
+        "name": "Cynthia Barnhart",
+        "email": "cbarnhar@mit.edu",
+        "university": "MIT",
+        "department": "Civil and Environmental Engineering",
+        "research_topics": [
+            "large-scale transportation problems"
+        ],
+        "summary": "Professor Barnhart specializes in developing models, optimization methods and decision support systems for large-scale transportation problems."
+    },
+    {
+        "name": "Franz-Josef Ulm",
+        "email": "ulm@mit.edu",
+        "university": "Massachusetts Institute of Technology",
+        "department": "Department of Civil and Environmental Engineering",
+        "research_topics": [
+            "mechanics and structures of materials",
+            "nano- and micro mechanics of porous materials, such as concrete, rocks and bones",
+            "durability mechanics of engineering materials and structures",
+            "computational mechanics",
+            "bio-chemo-poromechanics of high-performance composite materials"
+        ],
+        "summary": "Professor Ulm\u2019s research interests are in the mechanics and structures of materials. His research group is looking at the nano- and micro mechanics of porous materials, such as concrete, rocks and bones; in the durability mechanics of engineering materials and structures; in computational mechanics; and in the bio-chemo-poromechanics of high-performance composite materials."
+    },
+    {
+        "name": "Franz-Josef Ulm",
+        "email": "ulm@mit.edu",
+        "university": "Massachusetts Institute of Technology",
+        "department": "Department of Civil and Environmental Engineering",
+        "research_topics": [
+            "mechanics and structures of materials",
+            "nano- and micro mechanics of porous materials, such as concrete, rocks and bones",
+            "durability mechanics of engineering materials and structures",
+            "computational mechanics",
+            "bio-chemo-poromechanics of high-performance composite materials"
+        ],
+        "summary": "Professor Ulm\u2019s research interests are in the mechanics and structures of materials. His research group is looking at the nano- and micro mechanics of porous materials, such as concrete, rocks and bones; in the durability mechanics of engineering materials and structures; in computational mechanics; and in the bio-chemo-poromechanics of high-performance composite materials."
+    },
+    {
+        "name": "Eric J. Alm",
+        "email": "ejalm@mit.edu",
+        "university": "University of Illinois, Urbana",
+        "department": "Department of Civil and Environmental Engineering",
+        "research_topics": [
+            "Tools for detecting natural selection in microbes",
+            "The evolutionary origin of gene families",
+            "Mining metagenomic sequence data",
+            "Experimental evolution of microbes",
+            "Modeling bacterial ecology",
+            "Gene regulatory networks in bacteria",
+            "Protein structure and design"
+        ],
+        "summary": "Professor Eric J. Alm's research group uses computational, theoretical, and experimental approaches to understand the evolution of microorganisms, emphasizing a \u2018systems-level\u2019 perspective. He teaches classes at MIT spanning microbiology, computer algorithms, and thermodynamics of biomolecules."
+    },
+    {
+        "name": "Eric J. Alm",
+        "email": "ejalm@mit.edu",
+        "university": "Massachusetts Institute of Technology",
+        "department": "Department of Civil and Environmental Engineering",
+        "research_topics": [
+            "Tools for detecting natural selection in microbes",
+            "The evolutionary origin of gene families",
+            "Mining metagenomic sequence data",
+            "Experimental evolution of microbes",
+            "Modeling bacterial ecology",
+            "Gene regulatory networks in bacteria",
+            "Protein structure and design"
+        ],
+        "summary": "Professor Eric J. Alm's research group uses computational/theoretical and experimental approaches to understand the evolution of microorganisms, emphasizing a \u2018systems-level\u2019 perspective. He teaches classes at MIT, spanning microbiology, computer algorithms, and thermodynamics of biomolecules."
+    },
+    {
+        "name": "Jinhua Zhao",
+        "email": "jinhua@mit.edu",
+        "university": "MIT",
+        "department": "Department of Civil and Environmental Engineering",
+        "research_topics": [
+            "Urban Science",
+            "Urban Mobility",
+            "Travel Behavior",
+            "Behavioral Science",
+            "Public Transit"
+        ],
+        "summary": "Jinhua Zhao is a Professor at MIT focusing on urban science, urban mobility, and travel behavior."
+    },
+    {
+        "name": "John A. Ochsendorf",
+        "email": "jao@mit.edu",
+        "university": "Massachusetts Institute of Technology",
+        "department": "Civil and Environmental Engineering",
+        "research_topics": [
+            "mechanics and behavior of historical structures",
+            "collapse of masonry structures",
+            "dynamics of masonry buildings",
+            "safety of cracked masonry vaults and domes",
+            "displacement loading of structures",
+            "design of more sustainable infrastructure"
+        ],
+        "summary": "Professor Ochsendorf conducts research on the mechanics and behavior of historical structures, with a primary focus on the collapse of masonry structures. His group is actively researching the dynamics of masonry buildings, the safety of cracked masonry vaults and domes, displacement loading of structures and the design of more sustainable infrastructure."
+    },
+    {
+        "name": "Oral Buyukozturk",
+        "email": "obuyuk@mit.edu",
+        "university": "MIT",
+        "department": "Civil and Environmental Engineering",
+        "research_topics": [
+            "resiliency and sustainability of infrastructure through multiscale concrete mechanics",
+            "energy efficient cement-based construction materials",
+            "novel sensing and monitoring for intelligent built environment"
+        ],
+        "summary": "George Macomber Professor in Construction Management at MIT, focusing on structures and materials with research interests in resiliency and sustainability of infrastructure through multiscale concrete mechanics, energy efficient cement-based construction materials, and novel sensing and monitoring for intelligent built environment."
+    },
+    {
+        "name": "Moshe E. Ben-Akiva",
+        "email": "mba@mit.edu",
+        "university": "MIT",
+        "department": "Department of Civil and Environmental Engineering",
+        "research_topics": [
+            "Transportation systems analysis",
+            "Intelligent transportation systems",
+            "Demand modeling",
+            "Econometrics",
+            "Infrastructure management"
+        ],
+        "summary": "Edmund K Turner Professor in Civil Engineering at MIT. His research interests include transportation systems analysis, intelligent transportation systems, demand modeling, econometrics, and infrastructure management."
+    },
+    {
+        "name": "Michael Follows",
+        "email": "mick@mit.edu",
+        "university": "Massachusetts Institute of Technology",
+        "department": "Department of Civil and Environmental Engineering",
+        "research_topics": [
+            "Biogeochemical cycles of carbon and nutrients in the ocean."
+        ],
+        "summary": "I use numerical models to understand the combination of physical transport, chemical and biological processes that determine the distributions and fluxes of these elements in the ocean."
+    },
+    {
+        "name": "Lydia Bourouiba",
+        "email": "lbouro@mit.edu",
+        "university": "MIT",
+        "department": "Department of Civil and Environmental Engineering",
+        "research_topics": [
+            "Pathogen-Fluid Interaction",
+            "Interfacial flows: pathogen-fluid interactions in bubbles, drops and films",
+            "Fluid fragmentation and droplet formation leading to air contamination",
+            "Turbulence and multiphase flows",
+            "Mixing, transport, and pathogen deposition and contamination",
+            "Hydrodynamic instabilities and waves",
+            "Viscoelastic and biological fluids",
+            "Health, Disease Transmission",
+            "Contact dynamics and pathogen transport",
+            "Nosocomial diseases, respiratory diseases, waterborne diseases, and foliar diseases",
+            "Disease transmission and contamination in indoor environments, including hospitals."
+        ],
+        "summary": "Focusing on the interface of fluid dynamics and epidemiology, the Bourouiba Group aims to elucidate the fundamental physical mechanisms shaping the transmission dynamics of pathogens in human, animal, and plant populations where drops, bubbles, multiphase and complex flows are at the core."
+    },
+    {
+        "name": "Otto Cordero",
+        "email": "ottox@mit.edu",
+        "university": "Massachusetts Institute of Technology",
+        "department": "Department of Civil and Environmental Engineering",
+        "research_topics": [
+            "ecology and evolution of natural microbial collectives",
+            "social and ecological interactions at micro-scales impact the global productivity, stability and evolutionary dynamics of microbial ecosystems"
+        ],
+        "summary": "Professor Cordero studies the ecology and evolution of natural microbial collectives. His lab is interested in understanding how social and ecological interactions at micro-scales impact the global productivity, stability and evolutionary dynamics of microbial ecosystems."
+    },
+    {
+        "name": "Patrick Jaillet",
+        "email": "jaillet@mit.edu",
+        "university": "Massachusetts Institute of Technology",
+        "department": "Department of Civil and Environmental Engineering",
+        "research_topics": [
+            "Online and data-driven optimization",
+            "networks",
+            "internet",
+            "transportation and logistics",
+            "energy",
+            "finance"
+        ],
+        "summary": "Patrick Jaillet is the Dugald C. Jackson Professor at MIT. His research interests include online and data-driven optimization, networks, and their applications in various contexts such as internet, transportation, energy, and finance."
+    },
+    {
+        "name": "Serguei Saavedra",
+        "email": "sersaa@mit.edu",
+        "university": "Massachusetts Institute of Technology",
+        "department": "Department of Civil and Environmental Engineering",
+        "research_topics": [
+            "persistence of multispecies communities under changing environments",
+            "structural stability of dynamical systems",
+            "parametric and nonparametric methods to estimate probabilities of persistence of ecological communities"
+        ],
+        "summary": "Serguei Saavedra's research focuses on understanding and quantifying the uncertainty associated with the persistence of multispecies communities under changing environments, adopting a probabilistic and systems approach rooted in structural stability."
+    },
+    {
+        "name": "Saurabh Amin",
+        "email": "amins@mit.edu",
+        "university": "Massachusetts Institute of Technology",
+        "department": "Department of Civil and Environmental Engineering",
+        "research_topics": [
+            "Resilient network control",
+            "Information systems and incentive design",
+            "Optimal resource allocation in large-scale infrastructure systems",
+            "Highway transportation",
+            "Electric power distribution",
+            "Urban water networks"
+        ],
+        "summary": "My research focuses on the design of control of infrastructure systems using game theory and optimization in networks. My group works on three main areas: (1) Resilient network control; (2) Information systems and incentive design; (3) Optimal resource allocation in large-scale infrastructure systems."
+    },
+    {
+        "name": "Tami Lieberman",
+        "email": "tami@mit.edu",
+        "university": "Massachusetts Institute of Technology",
+        "department": "Department of Civil and Environmental Engineering",
+        "research_topics": [
+            "microbial evolution",
+            "mutations occuring within individual human \u2018microbiomes\u2019",
+            "molecular determinants of colonization success in complex environments",
+            "precise manipulations of microbiomes in the clinic and the environment"
+        ],
+        "summary": "Professor Lieberman studies microbial evolution in real time, with a focus on mutations occuring within individual human \u2018microbiomes\u2019 \u2013 the set of microbes that live in and on us during health. Her lab is interested in understanding the molecular determinants of colonization success in complex environments and enabling the precise manipulations of microbiomes in the clinic and the environment."
+    },
+    {
+        "name": "Tal Cohen",
+        "email": "talco@mit.edu",
+        "university": "Massachusetts Institute of Technology",
+        "department": "Department of Civil and Environmental Engineering",
+        "research_topics": [
+            "Nonlinear Solid Mechanics",
+            "Material Growth",
+            "Material Instabilities"
+        ],
+        "summary": "Tal Cohen is an Associate Professor at MIT's Department of Civil and Environmental Engineering. Her research focuses on Nonlinear Solid Mechanics, Material Growth, and Material Instabilities."
+    },
+    {
+        "name": "Gioele Zardini",
+        "email": "gzardini@mit.edu",
+        "university": "Massachusetts Institute of Technology",
+        "department": "Department of Civil and Environmental Engineering (CEE)",
+        "research_topics": [
+            "co-design complex systems",
+            "future mobility systems",
+            "autonomous systems",
+            "compositionality in engineering",
+            "planning and control",
+            "game theory"
+        ],
+        "summary": "Gioele is the Rudge (1948) and Nancy Allen Assistant Professor at Massachusetts Institute of Technology. Driven by societal challenges, the goal of his research is to develop efficient computational tools and algorithmic approaches to formulate and solve complex, interconnected system design and autonomous decision making problems."
+    },
+    {
+        "name": "James Kirtley, Jr.",
+        "email": "kirtley@mit.edu",
+        "university": "Massachusetts Institute of Technology",
+        "department": "EE",
+        "research_topics": [
+            "Electronic, Magnetic, Optical and Quantum Materials and Devices",
+            "Energy",
+            "Robotics"
+        ],
+        "summary": "Professor of EE (Post-Tenure), [EE]"
+    },
+    {
+        "name": "Pulkit Agrawal",
+        "email": "pulkitag@mit.edu",
+        "university": "MIT",
+        "department": "Electrical Engineering and Computer Science",
+        "research_topics": [
+            "Artificial Intelligence + Machine Learning",
+            "Graphics and Vision",
+            "Robotics"
+        ],
+        "summary": "Associate Professor [AI+D and CS] at MIT."
+    },
+    {
+        "name": "Mina Konakovic Lukovic",
+        "email": "minakl@mit.edu",
+        "university": "Massachusetts Institute of Technology",
+        "department": "Electrical Engineering & Computer Science",
+        "research_topics": [
+            "Artificial Intelligence + Machine Learning",
+            "Computational Fabrication and Manufacturing",
+            "Graphics and Vision",
+            "Robotics"
+        ],
+        "summary": "Homer A. Burnell Career Development Professor; Assistant Professor, [AI+D]"
+    },
+    {
+        "name": "Amit Chakrabarti",
+        "email": "Amit.Chakrabarti@dartmouth.edu",
+        "university": "Dartmouth College",
+        "department": "Computer Science",
+        "research_topics": [],
+        "summary": null
+    },
+    {
+        "name": "Daniel N. Rockmore",
+        "email": "Daniel.N.Rockmore@dartmouth.edu",
+        "university": "Dartmouth College",
+        "department": "Mathematics",
+        "research_topics": [],
+        "summary": null
+    },
+    {
+        "name": "Douglas McIlroy",
+        "email": "douglas.mcilroy@dartmouth.edu",
+        "university": "Dartmouth College",
+        "department": "Computer Science",
+        "research_topics": [
+            "programming methodology",
+            "security"
+        ],
+        "summary": "Douglas McIlroy is an Adjunct Professor in the Computer Science department at Dartmouth College. His areas of expertise include programming methodology and security."
+    },
+    {
+        "name": "Chucheng Wang",
+        "email": "Chucheng.Wang.GR@dartmouth.edu",
+        "university": "Dartmouth",
+        "department": "Computer Science",
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "Inas Khayal",
+        "email": "Inas.Khayal@dartmouth.edu",
+        "university": "Dartmouth",
+        "department": "Department of Computer Science",
+        "research_topics": null,
+        "summary": "Adjunct Assistant Professor of Computer Science"
+    },
+    {
+        "name": "Jiang Gui",
+        "email": "Jiang.Gui@dartmouth.edu",
+        "university": "Dartmouth College",
+        "department": "Biomedical Data Science",
+        "research_topics": null,
+        "summary": "Associate Professor at Dartmouth College."
+    },
+    {
+        "name": "Joseph R. DiPalma",
+        "email": "Joseph.R.Dipalma.GR@dartmouth.edu",
+        "university": "Dartmouth",
+        "department": "Computer Science",
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "Jonathan Conroy",
+        "email": "Jonathan.Conroy.GR@dartmouth.edu",
+        "university": "Dartmouth",
+        "department": "Department of Computer Science",
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "Jonathan Conroy",
+        "email": "Jonathan.Conroy.GR@dartmouth.edu",
+        "university": "Dartmouth",
+        "department": "Computer Science",
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "Lorie Loeb",
+        "email": "Lorie.Loeb@dartmouth.edu",
+        "university": "Dartmouth College",
+        "department": "Computer Science",
+        "research_topics": [
+            "presenting and visualizing information",
+            "getting people\u2019s attention",
+            "communicate effectively",
+            "change behavior"
+        ],
+        "summary": "Lorie Loeb's research focuses on effective methods for presenting and visualizing information in order to get people\u2019s attention, communicate effectively, and change behavior. She is the co-founder and Faculty Director of the Digital Applied Learning and Innovation Lab (DALI)."
+    },
+    {
+        "name": "O. Sami Saydjari",
+        "email": "Sami.Saydjari@dartmouth.edu",
+        "university": "Dartmouth College",
+        "department": "Computer Science",
+        "research_topics": null,
+        "summary": "Research Scientist/Analyst/Engineer"
+    },
+    {
+        "name": "Olga Zhaxybayeva",
+        "email": "Olga.Zhaxybayeva@dartmouth.edu",
+        "university": "Dartmouth College",
+        "department": "Biological Sciences",
+        "research_topics": [],
+        "summary": null
+    },
+    {
+        "name": "Nicholas C Jacobson",
+        "email": "Nicholas.C.Jacobson@dartmouth.edu",
+        "university": "Dartmouth",
+        "department": "Department of Computer Science",
+        "research_topics": [],
+        "summary": "Adjunct Assistant Professor"
+    },
+    {
+        "name": "Siddhartha Visveswara Jayanti",
+        "email": "Siddhartha.Visveswara.Jayanti@dartmouth.edu",
+        "university": "Dartmouth",
+        "department": "Computer Science",
+        "research_topics": null,
+        "summary": "Siddhartha Visveswara Jayanti is an Assistant Professor in Computer Science at Dartmouth College."
+    },
+    {
+        "name": "Soroush Vosoughi",
+        "email": "Soroush.Vosoughi@dartmouth.edu",
+        "university": "Dartmouth College",
+        "department": "Computer Science",
+        "research_topics": [],
+        "summary": "Soroush Vosoughi is a faculty member at Dartmouth College, affiliated with various programs including the Institute for Security, Technology, and Society (ISTS), Quantitative Social Science (QSS), Quantitative Biomedical Sciences (QBS), and the Arthur L. Irving Institute for Energy & Society."
+    },
+    {
+        "name": "Tam Vu",
+        "email": "Tam.N.Vu@dartmouth.edu",
+        "university": "Dartmouth College",
+        "department": "Computer Science",
+        "research_topics": [
+            "Wearable and Mobile Systems for Human performance, Wellness, and Longevity"
+        ],
+        "summary": "Tam Vu is the Thomas A. and Georgina Tugwell Russo 1977 Distinguished Professor in Computer Science at Dartmouth College and the Founder and CEO of Earable Neuroscience. He is a pioneer in Earable Computing, focusing on wearable and mobile systems that leverage physiological signals for enhanced human-computer interactions and healthcare."
+    },
+    {
+        "name": "Yijing Feng",
+        "email": "Yijing.Feng.GR@dartmouth.edu",
+        "university": "Dartmouth",
+        "department": "Department of Computer Science",
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "Yujun Yan",
+        "email": "Yujun.Yan@dartmouth.edu",
+        "university": "Dartmouth",
+        "department": "Computer Science",
+        "research_topics": [
+            "Graph-based Machine Learning",
+            "Data Mining"
+        ],
+        "summary": "Yujun's research lies at the intersection of machine learning (ML) and network science. Her work provides theoretical understanding and empirical practices to ML models, with application to complex real-world networks."
+    },
+    {
+        "name": "Pieter Abbeel",
+        "email": "pabbeel@cs.berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": [],
+        "summary": null
+    },
+    {
+        "name": "Ali Ghodsi",
+        "email": "aligh@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "Electrical Engineering & Computer Sciences",
+        "research_topics": [
+            "Database Management Systems (DBMS)",
+            "Operating Systems & Networking (OSNT)",
+            "Distributed systems",
+            "Cloud computing",
+            "Big data computing",
+            "Networking"
+        ],
+        "summary": "Ali Ghodsi's research interests include distributed systems, cloud computing, big data computing, and networking."
+    },
+    {
+        "name": "Alessandro Chiesa",
+        "email": "alexch@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": [
+            "Security (SEC)",
+            "Theory (THY)"
+        ],
+        "summary": "Alessandro Chiesa conducts research in the areas of complexity theory, cryptography, and security, focusing on the theoretical foundations and practical implementations of zero knowledge proofs that are short and easy to verify. He is an author of libsnark, a C++ library for zkSNARKs, which is the leading open-source library for succinct zero knowledge proofs."
+    },
+    {
+        "name": "Ahmed Alaa",
+        "email": "amalaa@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": null,
+        "summary": "Ahmed Alaa is a faculty member in the EECS department at UC Berkeley."
+    },
+    {
+        "name": "Brian A. Barsky",
+        "email": "barsky@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "Brian A. Barsky",
+        "email": "barsky@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "Peter Bartlett",
+        "email": "peter@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": [],
+        "summary": null
+    },
+    {
+        "name": "Peter Bartlett",
+        "email": "peter@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": [],
+        "summary": null
+    },
+    {
+        "name": "Jessica Boles",
+        "email": "boles@berkeley.edu",
+        "university": "University of California, Berkeley",
+        "department": "Department of Electrical Engineering and Computer Sciences",
+        "research_topics": [
+            "Power and Energy (ENE)",
+            "Integrated Circuits (INC)",
+            "Micro/Nano Electro Mechanical Systems (MEMS)",
+            "Physical Electronics (PHY)"
+        ],
+        "summary": "Jessica Boles is an Assistant Professor in the Department of Electrical Engineering and Computer Sciences at the University of California, Berkeley (UCB). Her research interests span power electronic circuits, components, and control, along with applications enabled by such."
+    },
+    {
+        "name": "Leon O. Chua",
+        "email": "chua@eecs.berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "Electrical Engineering",
+        "research_topics": [
+            "Biosystems & Computational Biology (BIO)",
+            "Control, Intelligent Systems, and Robotics (CIR), Cellular neural networks; Cellular automata; Complexity;",
+            "Nanoelectronics",
+            "Nonlinear circuits and systems; Nonlinear dynamics; Chaos"
+        ],
+        "summary": "Leon Chua is a professor of Electrical Engineering at UC Berkeley. He is known for his contributions to nonlinear circuit theory, cellular neural networks, and chaos theory."
+    },
+    {
+        "name": "Phillip Colella",
+        "email": "pcolella@lbl.gov",
+        "university": "UC Berkeley",
+        "department": "Electrical Engineering & Computer Sciences",
+        "research_topics": [],
+        "summary": null
+    },
+    {
+        "name": "Phillip Colella",
+        "email": "pcolella@lbl.gov",
+        "university": "UC Berkeley",
+        "department": "Electrical Engineering & Computer Sciences",
+        "research_topics": [],
+        "summary": null
+    },
+    {
+        "name": "David Brewer",
+        "email": "brewer@cs.berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "Christopher Hunn",
+        "email": "cthunn@eecs.berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": null,
+        "summary": "Christopher Hunn is the EECS Director of Undergraduate Instruction at UC Berkeley. He has a background in Cognitive Science and education, and has worked in the EECS department since 2012."
+    },
+    {
+        "name": "Clark Nguyen",
+        "email": "ctnguyen@berkeley.edu",
+        "university": "University of California at Berkeley",
+        "department": "Department of Electrical Engineering and Computer Sciences",
+        "research_topics": [
+            "Micro/Nano Electro Mechanical Systems (MEMS)",
+            "Integrated Circuits (INC)",
+            "Physical Electronics (PHY)",
+            "Design, Modeling and Analysis (DMA)"
+        ],
+        "summary": "Clark T.-C. Nguyen is a Professor in the Department of Electrical Engineering and Computer Sciences at the University of California at Berkeley and a co-Director of the Berkeley Sensor & Actuator Center. His research interests focus on micro electromechanical systems (MEMS) and include integrated micromechanical signal processors and sensors, merged circuit/micromechanical technologies, RF communication architectures, and integrated circuit design and technology."
+    },
+    {
+        "name": "Ken Goldberg",
+        "email": "goldberg@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": null,
+        "summary": "Ken Goldberg is a professor at UC Berkeley."
+    },
+    {
+        "name": "Emma Pierson",
+        "email": "emmapierson@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "Computer Science",
+        "research_topics": [
+            "Artificial Intelligence (AI)"
+        ],
+        "summary": "Emma Pierson is an assistant professor of computer science, affiliated with the Berkeley AI Research Lab, Computational Precision Health, and the Center for Human-Compatible AI. Her work develops data science and machine learning methods to study two broad areas: inequality and healthcare."
+    },
+    {
+        "name": "Kurt Keutzer",
+        "email": "keutzer@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "John Wawrzynek",
+        "email": "jr@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": [],
+        "summary": null
+    },
+    {
+        "name": "Richard M. Karp",
+        "email": "karp@cs.berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": null,
+        "summary": "Richard M. Karp is a professor at UC Berkeley."
+    },
+    {
+        "name": "Edward L. Keller",
+        "email": "elk@ski.org",
+        "university": "UC Berkeley",
+        "department": "EECS Department",
+        "research_topics": [
+            "Computational neuroscience",
+            "bioengineering",
+            "neurophysiology of the oculomotor system"
+        ],
+        "summary": "Prof. Edward L. Keller's research is involved in uncovering the structural and functional organizations in the nervous system that carry out spatiotemporal transformations, using the saccadic system as a model. After retiring from the University as an Emeritus Professor in 1994, he became Associate Director of the Smith-Kettlewell Eye Research Institute in San Francisco where his laboratory conducts research on how the brain converts sensory inputs into appropriate signals to generate motor behavior."
+    },
+    {
+        "name": "Jacob Steinhardt",
+        "email": "jsteinhardt@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "Electrical Engineering & Computer Sciences",
+        "research_topics": [
+            "Artificial Intelligence (AI)",
+            "Information, Data, Network, and Communication Sciences (IDNCS)"
+        ],
+        "summary": null
+    },
+    {
+        "name": "John Wright",
+        "email": "jswright@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": [
+            "Theory (THY)",
+            "quantum computing",
+            "quantum state learning",
+            "quantum complexity theory",
+            "property testing",
+            "approximation algorithms"
+        ],
+        "summary": "My research is in theoretical computer science, with an emphasis on quantum computing. More specifically, I work on quantum state learning, quantum complexity theory, property testing, and approximation algorithms."
+    },
+    {
+        "name": "Steven Conolly",
+        "email": "sconolly@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "Bioengineering and Electrical Engineering and Computer Sciences",
+        "research_topics": [
+            "Biosystems & Computational Biology (BIO)",
+            "Signal Processing (SP)",
+            "Medical Imaging hardware & Software"
+        ],
+        "summary": "Dr. Conolly is a Full Professor of Bioengineering and Electrical Engineering and Computer Sciences at UC Berkeley, specializing in medical imaging and biosensing hardware, with a focus on Magnetic Particle Imaging and Magnetic Resonance Imaging."
+    },
+    {
+        "name": "Mekhail Anwar",
+        "email": "mekhail@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS Department",
+        "research_topics": [
+            "Integrated Circuits (INC)",
+            "Implantable devices",
+            "cellular imagers",
+            "molecular sensors",
+            "therapeutic radiation detection",
+            "Biosystems & Computational Biology (BIO)",
+            "Micro/Nano Electro Mechanical Systems (MEMS)"
+        ],
+        "summary": "Mekhail Anwar is an Associate Professor in Residence in both the EECS Department at UC Berkeley and the Radiation Oncology Department at UCSF. Professor Anwar's research areas include many areas within the broad area of electronic circuits and devices, focusing on identifying tumor cells and guiding surgery and radiotherapy with unprecedented precision deep within the body."
+    },
+    {
+        "name": "Michael Ball",
+        "email": "ball@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS Department",
+        "research_topics": [
+            "Education (EDUC)",
+            "Human-Computer Interaction (HCI)"
+        ],
+        "summary": null
+    },
+    {
+        "name": "Lijie Chen",
+        "email": "lijiechen@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": [
+            "Theory (THY)"
+        ],
+        "summary": "Lijie Chen is a Miller Postdoctoral Fellow at UC Berkeley and will be joining Berkeley EECS as an Assistant Professor in Fall 2025. His research interests include classical and quantum computational complexity theory and their connections to other fields of computer science and quantum physics."
+    },
+    {
+        "name": "Steven Conolly",
+        "email": "sconolly@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "Bioengineering and Electrical Engineering and Computer Sciences",
+        "research_topics": [
+            "Biosystems & Computational Biology (BIO)",
+            "Signal Processing (SP)",
+            "Medical Imaging hardware & Software"
+        ],
+        "summary": "Dr. Conolly is a Full Professor of Bioengineering and Electrical Engineering and Computer Sciences at UC Berkeley, specializing in medical imaging and biosensing hardware, with a focus on Magnetic Particle Imaging and Magnetic Resonance Imaging."
+    },
+    {
+        "name": "Michael A. Lieberman",
+        "email": "lieber@eecs.berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "Department of Electrical Engineering and Computer Sciences",
+        "research_topics": [
+            "Power and Energy (ENE)",
+            "Plasma-assisted materials processing"
+        ],
+        "summary": "Michael Lieberman is a professor in the Department of Electrical Engineering and Computer Sciences at UC Berkeley. His research interests include power and energy, and plasma-assisted materials processing."
+    },
+    {
+        "name": "Sophia Shao",
+        "email": "ysshao@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "Electrical Engineering & Computer Sciences",
+        "research_topics": [
+            "Computer Architecture & Engineering (ARC)",
+            "Integrated Circuits (INC)",
+            "Cyber-Physical Systems and Design Automation (CPSDA)"
+        ],
+        "summary": null
+    },
+    {
+        "name": "Song Mei",
+        "email": "songmei@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": [
+            "Artificial Intelligence (AI)",
+            "Signal Processing (SP)",
+            "Theory (THY)",
+            "Control, Intelligent Systems, and Robotics (CIR)",
+            "Information, Data, Network, and Communication Sciences (IDNCS)"
+        ],
+        "summary": null
+    },
+    {
+        "name": "Michel Maharbiz",
+        "email": "maharbiz@eecs.berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "Oliver Grillmeyer",
+        "email": "topramen@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": null,
+        "summary": "Oliver Grillmeyer is a faculty member at UC Berkeley's EECS department."
+    },
+    {
+        "name": "Robert Full",
+        "email": "rjfull@berkeley.edu",
+        "university": "University of California at Berkeley",
+        "department": "Integrative Biology",
+        "research_topics": [
+            "Biosystems & Computational Biology (BIO)"
+        ],
+        "summary": "Professor Full directs the Poly-P.E.D.A.L. Laboratory which studies the Performance, Energetics and Dynamics of Animal Locomotion (P.E.D.A.L.) in many-footed creatures (Poly). His research laboratory applies the same techniques used in the study of human gait - 3D kinematic, force platform, and EMG analysis - but in miniature."
+    },
+    {
+        "name": "Niknejad, Ali M.",
+        "email": "niknejad@eecs.berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": null,
+        "summary": "Professor at UC Berkeley EECS."
+    },
+    {
+        "name": "Nika Haghtalab",
+        "email": "nika@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "Electrical Engineering and Computer Sciences",
+        "research_topics": [
+            "Artificial Intelligence (AI)",
+            "Theory (THY)"
+        ],
+        "summary": "Professor Haghtalab is an Assistant Professor in the Department of Electrical Engineering and Computer Sciences at UC Berkeley. She works broadly on the theoretical aspects of machine learning and algorithmic economics."
+    },
+    {
+        "name": "Alistair Sinclair",
+        "email": "sinclair@cs.berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "Computer Science",
+        "research_topics": [
+            "Theory (THY)",
+            "Randomized algorithms",
+            "Applied probability",
+            "Statistical physics"
+        ],
+        "summary": "Alistair Sinclair is a professor in the Computer Science Division at Berkeley. His research interests include randomized algorithms, applied probability, and statistical physics."
+    },
+    {
+        "name": "Peyrin Kao",
+        "email": "peyrin@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "Electrical Engineering and Computer Science",
+        "research_topics": null,
+        "summary": "Peyrin Kao teaches Computer Security and Introduction to Artificial Intelligence at UC Berkeley."
+    },
+    {
+        "name": "Vikram Jain",
+        "email": "vikramj@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": [
+            "Computer Architecture & Engineering (ARC)",
+            "Integrated Circuits (INC)"
+        ],
+        "summary": "Vikram Jain is co-teaching EE194-290 in Spring 2025. Previously he was a co-instructor for EE 290-2 in Spring 2024. He received his Ph.D. from KU Leuven in 2023, and also holds a postdoctoral researcher appointment in Berkeley EECS. His areas of interest are system-on-chip design and computer architecture."
+    },
+    {
+        "name": "Song Mei",
+        "email": "songmei@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": [
+            "Artificial Intelligence (AI)",
+            "Signal Processing (SP)",
+            "Theory (THY)",
+            "Control, Intelligent Systems, and Robotics (CIR)",
+            "Information, Data, Network, and Communication Sciences (IDNCS)"
+        ],
+        "summary": null
+    },
+    {
+        "name": "Jeronimo Segovia Fernandez",
+        "email": "jeronimo.segovia@berkeley.edu",
+        "university": "University of Castilla-La Mancha (Spain)",
+        "department": null,
+        "research_topics": [
+            "piezoelectric MEMS integrated with analog and RF circuits",
+            "wireless communications",
+            "timing",
+            "sensing",
+            "power electronics"
+        ],
+        "summary": "Jeronimo Segovia Fernandez teaches EE C247B in Spring 2025. He currently works as an R&D Systems Engineer at Texas Instruments Kilby Labs where he was elevated to Member, Group Technical Staff (MGTS) in 2022."
+    },
+    {
+        "name": "Narges Norouzi",
+        "email": "norouzi@berkeley.edu",
+        "university": "University of Toronto",
+        "department": "Electrical & Computer Engineering",
+        "research_topics": [
+            "Artificial Intelligence (AI)",
+            "Education (EDUC)",
+            "Biosystems & Computational Biology (BIO)",
+            "Computational Biology",
+            "Biometric Systems",
+            "Machine Learning",
+            "Statistical Signal Processing",
+            "Image Processing",
+            "Pattern Recognition",
+            "Adaptive Systems"
+        ],
+        "summary": "Narges Norouzi's research interests include Computational Biology, Biometric Systems, Machine Learning, and Statistical Signal Processing with applications in Image Processing, Pattern Recognition, and Adaptive Systems. She received her Ph.D. from the University of Toronto."
+    },
+    {
+        "name": "Sylvia Ratnasamy",
+        "email": "sylvia@eecs.berkeley.edu",
+        "university": "University of California, Berkeley",
+        "department": "Computer Science",
+        "research_topics": [
+            "Operating Systems & Networking (OSNT)"
+        ],
+        "summary": "Sylvia Ratnasamy is a Professor of Computer Science at the University of California, Berkeley, whose work focuses on the design and implementation of networked systems."
+    },
+    {
+        "name": "Jeronimo Segovia Fernandez",
+        "email": "jeronimo.segovia@berkeley.edu",
+        "university": "University of Castilla-La Mancha (Spain)",
+        "department": null,
+        "research_topics": [
+            "piezoelectric MEMS integrated with analog and RF circuits",
+            "wireless communications",
+            "timing",
+            "sensing",
+            "power electronics"
+        ],
+        "summary": "Jeronimo Segovia Fernandez teaches EE C247B in Spring 2025. He currently works as an R&D Systems Engineer at Texas Instruments Kilby Labs where he was elevated to Member, Group Technical Staff (MGTS) in 2022."
+    },
+    {
+        "name": "Bora Nikoli\u0107",
+        "email": "bora@eecs.berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "Alex Sandoval",
+        "email": "alexandersandoval@eecs.berkeley.edu",
+        "university": null,
+        "department": null,
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "Nelson Morgan",
+        "email": "morgan@icsi.berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "Yiren Ng",
+        "email": "ren@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "Jan M. Rabaey",
+        "email": "jan_rabaey@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": null,
+        "summary": "Jan M. Rabaey is a professor in the Electrical Engineering and Computer Sciences (EECS) department at UC Berkeley."
+    },
+    {
+        "name": "John Wawrzynek",
+        "email": "johnw@cs.berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "William G. Oldham",
+        "email": "oldham@eecs.berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "David Wagner",
+        "email": "daw@cs.berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": [],
+        "summary": null
+    },
+    {
+        "name": "David A. Patterson",
+        "email": "pattrsn@cs.berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "Ming C. Wu",
+        "email": "wu@eecs.berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "Charlotte Jones",
+        "email": "cmjones@eecs.berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": null,
+        "summary": null
+    },
+    {
+        "name": "Mengjie Yu",
+        "email": "mengjie.yu@berkeley.edu",
+        "university": "University of California, Berkeley",
+        "department": "Electrical Engineering and Computer Sciences",
+        "research_topics": [
+            "Physical Electronics (PHY)",
+            "Artificial Intelligence (AI)",
+            "Integrated Circuits (INC)",
+            "Micro/Nano Electro Mechanical Systems (MEMS)"
+        ],
+        "summary": "Mengjie Yu is an Assistant Professor of Electrical Engineering and Computer Sciences and Weber Family Engineering Faculty Fellow at the University of California, Berkeley. Her research interests include nanophotonics and optoelectronics."
+    },
+    {
+        "name": "Matei Zaharia",
+        "email": "matei@berkeley.edu",
+        "university": "UC Berkeley",
+        "department": "EECS",
+        "research_topics": [
+            "Operating Systems & Networking (OSNT)",
+            "Artificial Intelligence (AI)",
+            "Database Management Systems (DBMS)"
+        ],
+        "summary": "Matei Zaharia is an Associate Professor of EECS at Berkeley and a Cofounder and CTO of Databricks. He started the Apache Spark open source project during his PhD at UC Berkeley in 2009, and has worked broadly on other widely used data and AI software, including Delta Lake, MLflow, Dolly and ColBERT."
     }
 ]

@@ -180,7 +180,7 @@ async def find_and_extract_professors(directory_urls: List[str], max_profiles_to
             link_extraction_strategy = LLMExtractionStrategy(
                 llm_config=llm_config,
                 schema=FacultyPage.model_json_schema(),
-                instruction="From the provided HTML of a university faculty page, extract the full name and the absolute URL to the profile page for every professor listed. Return a single JSON object with a 'professors' array containing objects with 'name' and 'profile_url' fields. Make sure all URLs are absolute and complete.",
+                instruction="From the provided HTML of a university faculty page, extract the full name and the absolute URL to **ALL** the profile pages for every professor listed. Return a single JSON object with a 'professors' array containing objects with 'name' and 'profile_url' fields. Make sure all URLs are absolute and complete.",
                 input_format="html"  # Using HTML is often better for link extraction
             )
 
@@ -323,12 +323,33 @@ async def find_and_extract_professors(directory_urls: List[str], max_profiles_to
 if __name__ == "__main__":
     # List of faculty directory URLs to crawl
     FACULTY_DIRECTORY_URLS = [
-        "https://s3d.cmu.edu/people/faculty-index.html",
-        "https://fbri.vtc.vt.edu/people-directory/research-faculty.html",
+        "https://science.gmu.edu/academics/departments-units/mathematical-sciences/faculty-and-staff",
+        "https://ids.vcu.edu/about-us/our-faculty--staff/",
+        "https://www.scs.gatech.edu/people/faculty",
+        "https://geog.umd.edu/people/professors",
+        "https://statistics.northwestern.edu/people/faculty/",
+        "https://be.mit.edu/faculty/",
+        "https://imes.mit.edu/people/faculty/",
+        "https://cee.mit.edu/faculty/",
+        "https://www.eecs.mit.edu/role/faculty/?fwp_role=faculty&fwp_research=robotics",
+        "https://web.mit.edu/nse/people/faculty/",
+        "https://web.cs.dartmouth.edu/people",
+        "https://www.hbs.edu/faculty/Pages/browse.aspx",
+        "https://drb.hms.harvard.edu/faculty-alphabetical-order",
+        "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html",
+        "https://www.sps.nyu.edu/homepage/academics/faculty-directory.html",
+        "https://liberalstudies.nyu.edu/about/faculty-listing.html",
+        "https://www.anderson.ucla.edu/faculty-and-research/faculty-directory",
+        "https://umdearborn.edu/cecs/about/faculty-directory",
+        "https://ati.osu.edu/aboutus/directory",
+        
+
+        
+
     ]
     
     # To control costs and time during testing, we'll only process the first profiles found.
     # Change this number to process more.
-    MAX_PROFILES_TO_PROCESS = 5
+    MAX_PROFILES_TO_PROCESS = 500000000
 
     asyncio.run(find_and_extract_professors(FACULTY_DIRECTORY_URLS, max_profiles_to_process=MAX_PROFILES_TO_PROCESS))

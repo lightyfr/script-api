@@ -34,7 +34,17 @@ def add_professors_to_supabase(professors):
     filtered_profs = [prof for prof in professors if not is_junk_entry(prof)]
     print(f"[DEBUG] Filtered out {len(professors) - len(filtered_profs)} junk/placeholder entries.")
 
-    emails = [prof.get("email") for prof in filtered_profs if prof.get("email")]
+    # Remove duplicates within the batch by email (keep the first occurrence)
+    seen_emails = set()
+    deduped_profs = []
+    for prof in filtered_profs:
+        email = prof.get("email")
+        if email and email not in seen_emails:
+            deduped_profs.append(prof)
+            seen_emails.add(email)
+    print(f"[DEBUG] Deduplicated batch: {len(deduped_profs)} unique emails remain (from {len(filtered_profs)}).")
+
+    emails = [prof.get("email") for prof in deduped_profs if prof.get("email")]
     if not emails:
         print("[DEBUG] No emails found in any entries after filtering; check key names and data from extraction.")
         return inserted
@@ -45,7 +55,7 @@ def add_professors_to_supabase(professors):
     existing_emails = set(row.get("email") for row in (existing.data or []))
     print(f"[DEBUG] Existing emails in DB: {existing_emails}")
 
-    for prof in filtered_profs:
+    for prof in deduped_profs:
         email = prof.get("email")
         if not email or email in existing_emails:
             continue  # Skip missing or already existing

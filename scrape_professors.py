@@ -342,11 +342,26 @@ if __name__ == "__main__":
         "https://www.anderson.ucla.edu/faculty-and-research/faculty-directory",
         "https://umdearborn.edu/cecs/about/faculty-directory",
         "https://ati.osu.edu/aboutus/directory",
-        
-
-        
-
-    ]
+        "https://ist.psu.edu/about/directory/faculty",
+        "https://wertheim.scripps.ufl.edu/departments/faculty-directory/",
+        "https://guide.wisc.edu/faculty/",
+        "https://uwm.edu/informationstudies/directory/",
+        "https://www.uwstout.edu/directory",
+        "https://sasn.rutgers.edu/staff-directory/all",
+        "https://mga.rice.edu/academics/faculty",
+        "https://cla.purdue.edu/academic/cornerstone/faculty/directory.html",
+        "https://medicine.vumc.org/department-directory",
+        "https://www.bu.edu/math/people/faculty/",
+        "https://www.harford.edu/about/get-to-know-harford/faculty-staff-directory/index.php",
+        "https://www.angelo.edu/directory/faculty_staff/",
+        "https://bowiestate.edu/directories/faculty-and-staff-directory/index.php",
+        "https://www.pma.caltech.edu/people?cat_one=Professorial%20Faculty&cat_two=all"
+        "https://www.hss.caltech.edu/people?category=54",
+        "https://www.gps.caltech.edu/people?category=17",
+        "https://www.eas.caltech.edu/people",
+        "https://cce.caltech.edu/people?category=3",
+        "https://www.bbe.caltech.edu/people/faculty",
+]
     
     # To control costs and time during testing, we'll only process the first profiles found.
     # Change this number to process more.

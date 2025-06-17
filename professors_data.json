@@ -43,14 +43,6 @@
         "summary": "The focus of my research is to develop mathematical modeling and scientific computing techniques to study problems arising in the areas of fluid mechanics, biology and materials science. I am particularly interested in applications where hydrodynamics are coupled to phase transformation processes."
     },
     {
-        "name": "Claire Merriman",
-        "email": "emerrima@gmu.edu",
-        "university": "GMU College of Science",
-        "department": "Mathematical Sciences Department",
-        "research_topics": null,
-        "summary": "Claire Merriman is an Instructional Assistant Professor in the Mathematical Sciences Department at George Mason University."
-    },
-    {
         "name": "Carlos N. Rautenberg",
         "email": "crautenb@gmu.edu",
         "university": "GMU College of Science",
@@ -100,14 +92,6 @@
             "Wavelet Theory"
         ],
         "summary": "David Walnut is a Professor in the Mathematical Sciences Department at GMU College of Science. His research interests include Harmonic Analysis and Wavelet Theory."
-    },
-    {
-        "name": "Christine Amaya",
-        "email": "camaya@gmu.edu",
-        "university": "GMU College of Science",
-        "department": "Mathematical Sciences Department",
-        "research_topics": null,
-        "summary": "Christine Amaya is a Student Support Specialist in the Mathematical Sciences Department at George Mason University."
     },
     {
         "name": "Christine Amaya",
@@ -171,17 +155,6 @@
         "summary": "Claire Merriman is an Instructional Assistant Professor in the Mathematical Sciences Department at George Mason University."
     },
     {
-        "name": "Anton Lukyanenko",
-        "email": "alukyane@gmu.edu",
-        "university": "GMU College of Science",
-        "department": "Mathematical Sciences Department",
-        "research_topics": [
-            "Math",
-            "Differential Geometry"
-        ],
-        "summary": "I work on research at the intersection of metric geometry with other fields of mathematics including analysis, dynamical systems, group theory and number theory. My primary focus is on the geometry of the Heisenberg group and more generally sub-Riemannian spaces."
-    },
-    {
         "name": "Frank (Trey) Andreani",
         "email": "fandrean@gmu.edu",
         "university": "GMU College of Science",
@@ -219,27 +192,6 @@
         "department": "Mathematical Sciences Department",
         "research_topics": null,
         "summary": "James Lawrence is a Professor in the Mathematical Sciences Department at George Mason University."
-    },
-    {
-        "name": "Haja Razafinjatovo",
-        "email": "hrazafin@gmu.edu",
-        "university": "GMU College of Science",
-        "department": "Mathematical Sciences Department",
-        "research_topics": null,
-        "summary": "Haja Razafinjatovo is an Adjunct at George Mason University in the Mathematical Sciences Department."
-    },
-    {
-        "name": "Flavia Colonna",
-        "email": "fcolonna@gmu.edu",
-        "university": "GMU College of Science",
-        "department": "Mathematical Sciences Department",
-        "research_topics": [
-            "Operator Theory",
-            "Complex Analysis",
-            "Discrete Harmonic Analysis",
-            "Potential Theory"
-        ],
-        "summary": "Flavia Colonna is a Professor in the Mathematical Sciences Department at George Mason University. Her research interests include Operator Theory, Complex Analysis, Discrete Harmonic Analysis, and Potential Theory."
     },
     {
         "name": "Haja Razafinjatovo",
@@ -306,14 +258,6 @@
         "department": "Mathematical Sciences Department",
         "research_topics": null,
         "summary": "Douglas Eckley is an Instructional Associate Professor in the Mathematical Sciences Department at George Mason University."
-    },
-    {
-        "name": "Karen Crossin",
-        "email": "kcrossin@gmu.edu",
-        "university": "GMU College of Science",
-        "department": "Mathematical Sciences Department",
-        "research_topics": null,
-        "summary": "Senior Instructor and Course Coordinator for Math 106, 271 & 272 at George Mason University."
     },
     {
         "name": "Mahamadi Warma",
@@ -483,14 +427,6 @@
         "summary": "Scott Carson is an Instructional Assistant Professor at George Mason University. His research interests are algebraic in nature, focusing on semigroup theory and the construction of semigroup presentations."
     },
     {
-        "name": "Tammie Howell",
-        "email": "thowell3@gmu.edu",
-        "university": "GMU College of Science",
-        "department": "Mathematical Sciences Department",
-        "research_topics": null,
-        "summary": "HR and Administrative Specialist at the Mathematical Sciences Department."
-    },
-    {
         "name": "Timothy Sauer",
         "email": "tsauer@gmu.edu",
         "university": "GMU College of Science",
@@ -590,17 +526,6 @@
             "Modeling"
         ],
         "summary": "My research is motivated by the rapid expansion of model complexity and data availability in the applied sciences. Traditional parametric modeling is subject to model error and I believe that modern complex systems call for model-free and semi-parametric approaches."
-    },
-    {
-        "name": "Walter Morris",
-        "email": "wmorris@gmu.edu",
-        "university": "GMU College of Science",
-        "department": "Mathematical Sciences Department",
-        "research_topics": [
-            "Computer Science",
-            "Math"
-        ],
-        "summary": "I teach courses at the graduate and undergraduate level in Mathematics. I do research into algorithms and theory of discrete geometry and linear optimization."
     },
     {
         "name": "Joanna Jauchen",
@@ -1020,20 +945,6 @@
         "summary": "Ralph Dubayah is Professor of Geographical Sciences at the University of Maryland, College Park. His main areas of interest are ecosystem characterization for carbon modeling, habitat and biodiversity studies, land surface energy and water balance modeling, spatial analysis and remote sensing science."
     },
     {
-        "name": "Hathaway, Jonathon",
-        "email": "jhathaw2@umd.edu",
-        "university": "University of Maryland",
-        "department": "Department of Geographical Sciences",
-        "research_topics": [
-            "political conflict",
-            "military geography",
-            "technological innovation and integration",
-            "human-environmental interactions",
-            "Africa"
-        ],
-        "summary": "Jonathon Hathaway is a Senior Systems Engineer at a small private consulting firm, an Intelligence Officer in the U.S. Navy Reserves, and an Assistant Professor at the National Intelligence University. He has over 20 years of experience supporting the U.S. Intelligence Community, Department of Defense and academia."
-    },
-    {
         "name": "Fohringer, Christian",
         "email": "cf@ecos.au.dk",
         "university": "University of Maryland",
@@ -1081,17 +992,6 @@
         "summary": "Chris Justice is a Distinguished University Professor at the University of Maryland. His current research is on land cover and land use change, land observations and data products, global agricultural monitoring, and their associated information technology and decision support systems."
     },
     {
-        "name": "Hunka, Neha",
-        "email": "nhunka@umd.edu",
-        "university": "University of Maryland",
-        "department": "Department of Geographical Sciences",
-        "research_topics": [
-            "Carbon, Vegetation Dynamics and Landscape-Scale Processes",
-            "Land Cover - Land Use Change"
-        ],
-        "summary": "Neha Hunka is an Assistant Research Professor at the University of Maryland (UMD), College Park, leading efforts towards the harmonization of space-based forest biomass maps to facilitate understanding and uptake of such maps by countries for policy reporting within frameworks of the United Nations Framework Convention on Climate Change (UNFCCC)."
-    },
-    {
         "name": "Hathaway, Jonathon",
         "email": "jhathaw2@umd.edu",
         "university": "University of Maryland",
@@ -1115,16 +1015,6 @@
             "Land Cover - Land Use Change"
         ],
         "summary": "Neha Hunka is an Assistant Research Professor at the University of Maryland (UMD), College Park, leading efforts towards the harmonization of space-based forest biomass maps to facilitate understanding and uptake of such maps by countries for policy reporting within frameworks of the United Nations Framework Convention on Climate Change (UNFCCC)."
-    },
-    {
-        "name": "Ma, Jack (Jianguo)",
-        "email": "jma3@umd.edu",
-        "university": "University of Maryland",
-        "department": "Department of Geographical Sciences",
-        "research_topics": [
-            "Geospatial Information Science and Remote Sensing"
-        ],
-        "summary": "MS Program Director"
     },
     {
         "name": "Qi, Wenlu",
@@ -1182,20 +1072,6 @@
             "Remote Sensing"
         ],
         "summary": "Dr. Nakalembe is an Assistant Professor at the University of Maryland, the Africa Program Director under NASA Harvest, and a member of the NASA SERVIR Applied Sciences Team. Catherine leads projects focusing on the development methods and applications of satellite remote sensing and machine learning to agriculture and food security, land use and land-use change mapping, humanitarian mapping, and climate change."
-    },
-    {
-        "name": "Tucker, Compton",
-        "email": "compton.j.tucker@nasa.gov",
-        "university": "University of Maryland",
-        "department": "Department of Geographical Sciences",
-        "research_topics": [
-            "Gross Primary Production",
-            "Semi-Arid Tree Carbon",
-            "Food Security",
-            "Infectious Diseases linked to Weather",
-            "Glacier Extent & Remote Sensing"
-        ],
-        "summary": "Dr. Compton Tucker is a Scientist in the Earth Sciences Division at NASA Goddard Space Flight Center and an Adjunct Professor at the University of Maryland. Tucker is known for pioneering satellite-based time-series monitoring of land vegetation for continental and global studies."
     },
     {
         "name": "Tucker, Compton",
@@ -1389,34 +1265,6 @@
         "summary": "We develop and systematically apply radical new technologies to analyze, repair, and simulate the brain, at a deep and mechanistic level."
     },
     {
-        "name": "Eric Alm, PhD",
-        "email": "ejalm@mit.edu",
-        "university": "MIT",
-        "department": "Biological Engineering",
-        "research_topics": [
-            "Computational Systems Biology",
-            "Climate, Environment, and Toxicology",
-            "Microbiome Engineering and Infectious Disease",
-            "Synthetic Biology",
-            "Tissue Engineering"
-        ],
-        "summary": "Eric Alm's research includes both computational/theoretical and experimental approaches to understanding and engineering the human microbiome. His research is focused on translating basic science discoveries rapidly into the clinic, where they can contribute to better outcomes for patients."
-    },
-    {
-        "name": "Eric Alm, PhD",
-        "email": "ejalm@mit.edu",
-        "university": "MIT",
-        "department": "Biological Engineering",
-        "research_topics": [
-            "Computational Systems Biology",
-            "Climate, Environment, and Toxicology",
-            "Microbiome Engineering and Infectious Disease",
-            "Synthetic Biology",
-            "Tissue Engineering"
-        ],
-        "summary": "Eric Alm's research includes both computational/theoretical and experimental approaches to understanding and engineering the human microbiome. His research is focused on translating basic science discoveries rapidly into the clinic, where they can contribute to better outcomes for patients."
-    },
-    {
         "name": "Elfar Adalsteinsson",
         "email": "elfar@mit.edu",
         "university": "Massachusetts Institute of Technology",
@@ -1461,54 +1309,6 @@
         "department": "Division of Health Sciences and Technology",
         "research_topics": null,
         "summary": "Henrike is a medical educator and scholar. She joined MIT\u2019s Division of Health Sciences and Technology in 2024 as Senior Lecturer and Director of Education."
-    },
-    {
-        "name": "Sangeeta N. Bhatia",
-        "email": "imes@mit.edu",
-        "university": "MIT Institute for Medical Engineering & Science",
-        "department": null,
-        "research_topics": null,
-        "summary": null
-    },
-    {
-        "name": "Lydia Bourouiba",
-        "email": "lbouro@mit.edu",
-        "university": "MIT",
-        "department": "Department of Civil and Environmental Engineering, Department of Mechanical Engineering, and the Institute for Medical Engineering & Science (IMES)",
-        "research_topics": [
-            "Fluid Physics and Biophysics",
-            "Health, Disease Transmission"
-        ],
-        "summary": "Lydia Bourouiba is a physical applied mathematician concentrating on geophysical problems of hydrodynamic turbulence and on the mathematical modeling of population dynamics and disease transmission. Her research specializes in developing and joining advanced fluid dynamics experiments, biophysics, and applied mathematics to elucidate the fundamental multi-scale dynamics of fluid fragmentation."
-    },
-    {
-        "name": "Emery N. Brown",
-        "email": "imes@mit.edu",
-        "university": "MIT",
-        "department": "Institute for Medical Engineering & Science",
-        "research_topics": null,
-        "summary": null
-    },
-    {
-        "name": "Kwanghun Chung",
-        "email": "imes@mit.edu",
-        "university": "MIT Institute for Medical Engineering & Science",
-        "department": null,
-        "research_topics": null,
-        "summary": null
-    },
-    {
-        "name": "Arup K. Chakraborty",
-        "email": "arupc@mit.edu",
-        "university": "MIT",
-        "department": "Chemical Engineering, Physics and Chemistry",
-        "research_topics": [
-            "Infectious Diseases/Immunology/virology",
-            "Regulation of transcription",
-            "Condensate biology",
-            "Statistical Physics and computation"
-        ],
-        "summary": "Arup K. Chakraborty is one of the 12 Institute Professors at MIT and served as the founding Director of MIT\u2019s Institute for Medical Engineering and Science. His work focuses on bringing together approaches from immunology, physics, and engineering to understand T cell signaling, virus evolution, antibody responses, and vaccine design."
     },
     {
         "name": "Arup K. Chakraborty",
@@ -1689,36 +1489,6 @@
             "bio-chemo-poromechanics of high-performance composite materials"
         ],
         "summary": "Professor Ulm\u2019s research interests are in the mechanics and structures of materials. His research group is looking at the nano- and micro mechanics of porous materials, such as concrete, rocks and bones; in the durability mechanics of engineering materials and structures; in computational mechanics; and in the bio-chemo-poromechanics of high-performance composite materials."
-    },
-    {
-        "name": "Franz-Josef Ulm",
-        "email": "ulm@mit.edu",
-        "university": "Massachusetts Institute of Technology",
-        "department": "Department of Civil and Environmental Engineering",
-        "research_topics": [
-            "mechanics and structures of materials",
-            "nano- and micro mechanics of porous materials, such as concrete, rocks and bones",
-            "durability mechanics of engineering materials and structures",
-            "computational mechanics",
-            "bio-chemo-poromechanics of high-performance composite materials"
-        ],
-        "summary": "Professor Ulm\u2019s research interests are in the mechanics and structures of materials. His research group is looking at the nano- and micro mechanics of porous materials, such as concrete, rocks and bones; in the durability mechanics of engineering materials and structures; in computational mechanics; and in the bio-chemo-poromechanics of high-performance composite materials."
-    },
-    {
-        "name": "Eric J. Alm",
-        "email": "ejalm@mit.edu",
-        "university": "University of Illinois, Urbana",
-        "department": "Department of Civil and Environmental Engineering",
-        "research_topics": [
-            "Tools for detecting natural selection in microbes",
-            "The evolutionary origin of gene families",
-            "Mining metagenomic sequence data",
-            "Experimental evolution of microbes",
-            "Modeling bacterial ecology",
-            "Gene regulatory networks in bacteria",
-            "Protein structure and design"
-        ],
-        "summary": "Professor Eric J. Alm's research group uses computational, theoretical, and experimental approaches to understand the evolution of microorganisms, emphasizing a \u2018systems-level\u2019 perspective. He teaches classes at MIT spanning microbiology, computer algorithms, and thermodynamics of biomolecules."
     },
     {
         "name": "Eric J. Alm",
@@ -2014,14 +1784,6 @@
         "name": "Jonathan Conroy",
         "email": "Jonathan.Conroy.GR@dartmouth.edu",
         "university": "Dartmouth",
-        "department": "Department of Computer Science",
-        "research_topics": null,
-        "summary": null
-    },
-    {
-        "name": "Jonathan Conroy",
-        "email": "Jonathan.Conroy.GR@dartmouth.edu",
-        "university": "Dartmouth",
         "department": "Computer Science",
         "research_topics": null,
         "summary": null
@@ -2159,22 +1921,6 @@
         "summary": null
     },
     {
-        "name": "Brian A. Barsky",
-        "email": "barsky@berkeley.edu",
-        "university": "UC Berkeley",
-        "department": "EECS",
-        "research_topics": null,
-        "summary": null
-    },
-    {
-        "name": "Peter Bartlett",
-        "email": "peter@berkeley.edu",
-        "university": "UC Berkeley",
-        "department": "EECS",
-        "research_topics": [],
-        "summary": null
-    },
-    {
         "name": "Peter Bartlett",
         "email": "peter@berkeley.edu",
         "university": "UC Berkeley",
@@ -2207,14 +1953,6 @@
             "Nonlinear circuits and systems; Nonlinear dynamics; Chaos"
         ],
         "summary": "Leon Chua is a professor of Electrical Engineering at UC Berkeley. He is known for his contributions to nonlinear circuit theory, cellular neural networks, and chaos theory."
-    },
-    {
-        "name": "Phillip Colella",
-        "email": "pcolella@lbl.gov",
-        "university": "UC Berkeley",
-        "department": "Electrical Engineering & Computer Sciences",
-        "research_topics": [],
-        "summary": null
     },
     {
         "name": "Phillip Colella",
@@ -2334,18 +2072,6 @@
         "summary": "My research is in theoretical computer science, with an emphasis on quantum computing. More specifically, I work on quantum state learning, quantum complexity theory, property testing, and approximation algorithms."
     },
     {
-        "name": "Steven Conolly",
-        "email": "sconolly@berkeley.edu",
-        "university": "UC Berkeley",
-        "department": "Bioengineering and Electrical Engineering and Computer Sciences",
-        "research_topics": [
-            "Biosystems & Computational Biology (BIO)",
-            "Signal Processing (SP)",
-            "Medical Imaging hardware & Software"
-        ],
-        "summary": "Dr. Conolly is a Full Professor of Bioengineering and Electrical Engineering and Computer Sciences at UC Berkeley, specializing in medical imaging and biosensing hardware, with a focus on Magnetic Particle Imaging and Magnetic Resonance Imaging."
-    },
-    {
         "name": "Mekhail Anwar",
         "email": "mekhail@berkeley.edu",
         "university": "UC Berkeley",
@@ -2414,20 +2140,6 @@
             "Computer Architecture & Engineering (ARC)",
             "Integrated Circuits (INC)",
             "Cyber-Physical Systems and Design Automation (CPSDA)"
-        ],
-        "summary": null
-    },
-    {
-        "name": "Song Mei",
-        "email": "songmei@berkeley.edu",
-        "university": "UC Berkeley",
-        "department": "EECS",
-        "research_topics": [
-            "Artificial Intelligence (AI)",
-            "Signal Processing (SP)",
-            "Theory (THY)",
-            "Control, Intelligent Systems, and Robotics (CIR)",
-            "Information, Data, Network, and Communication Sciences (IDNCS)"
         ],
         "summary": null
     },
@@ -2521,20 +2233,6 @@
             "Information, Data, Network, and Communication Sciences (IDNCS)"
         ],
         "summary": null
-    },
-    {
-        "name": "Jeronimo Segovia Fernandez",
-        "email": "jeronimo.segovia@berkeley.edu",
-        "university": "University of Castilla-La Mancha (Spain)",
-        "department": null,
-        "research_topics": [
-            "piezoelectric MEMS integrated with analog and RF circuits",
-            "wireless communications",
-            "timing",
-            "sensing",
-            "power electronics"
-        ],
-        "summary": "Jeronimo Segovia Fernandez teaches EE C247B in Spring 2025. He currently works as an R&D Systems Engineer at Texas Instruments Kilby Labs where he was elevated to Member, Group Technical Staff (MGTS) in 2022."
     },
     {
         "name": "Narges Norouzi",
